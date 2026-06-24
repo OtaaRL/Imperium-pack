@@ -4,16 +4,22 @@
   "neoforge": "21.1.230",
   "mods": [
     {
-      "name": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge",
-      "fileName": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
-      "sha1": "c6cb26a2031687d801bf1763dc0c75cd92f3715c"
+      "name": "accelerated-decay-neoforge-21.0.0",
+      "fileName": "accelerated-decay-neoforge-21.0.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/accelerated-decay-neoforge-21.0.0.jar",
+      "sha1": "b023fe4daf1379f0f4233bea02ba112f3854db3e"
     },
     {
-      "name": "AI-Improvements-1.21-0.5.3",
-      "fileName": "AI-Improvements-1.21-0.5.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AI-Improvements-1.21-0.5.3.jar",
-      "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+      "name": "aces_spell_utils-1.2.6.1-1.21.1",
+      "fileName": "aces_spell_utils-1.2.6.1-1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/aces_spell_utils-1.2.6.1-1.21.1.jar",
+      "sha1": "6cad17fe69b70ac13c2d31cd6e2cad15e21998e8"
+    },
+    {
+      "name": "actuallyadditions-1.3.25+mc1.21.1",
+      "fileName": "actuallyadditions-1.3.25+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/actuallyadditions-1.3.25%2Bmc1.21.1.jar",
+      "sha1": "6b82d694f873c0bae4a9757654ee4c719b3d7354"
     },
     {
       "name": "AdvancedAE-1.6.11-1.21.1",
@@ -22,10 +28,46 @@
       "sha1": "0af8033f7291b9f5062b229053e16b439a906db9"
     },
     {
+      "name": "advancednetherite-neoforge-2.3.1-1.21.1",
+      "fileName": "advancednetherite-neoforge-2.3.1-1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/advancednetherite-neoforge-2.3.1-1.21.1.jar",
+      "sha1": "99003aafa635f316bdcf2db4a70989890a4d944d"
+    },
+    {
       "name": "AdvancedPeripherals-1.21.1-0.7.61b",
       "fileName": "AdvancedPeripherals-1.21.1-0.7.61b.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AdvancedPeripherals-1.21.1-0.7.61b.jar",
       "sha1": "3f05a8766862bbe8958750f7eb768220d30536a3"
+    },
+    {
+      "name": "ae2ct-1.21.1-1.1.1",
+      "fileName": "ae2ct-1.21.1-1.1.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ae2ct-1.21.1-1.1.1.jar",
+      "sha1": "2e425a9dc8891bdcd3b2914506d1bc33414b61be"
+    },
+    {
+      "name": "ae2importexportcard-1.21.1-1.5.0",
+      "fileName": "ae2importexportcard-1.21.1-1.5.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ae2importexportcard-1.21.1-1.5.0.jar",
+      "sha1": "4434d42eace0e574ecb42dffb7770f9f927d71e1"
+    },
+    {
+      "name": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge",
+      "fileName": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+      "sha1": "c6cb26a2031687d801bf1763dc0c75cd92f3715c"
+    },
+    {
+      "name": "ae2wtlib-19.5.0",
+      "fileName": "ae2wtlib-19.5.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ae2wtlib-19.5.0.jar",
+      "sha1": "de72e7f4d8d9d29dbe7f8790644b32f6c5b9655f"
+    },
+    {
+      "name": "AI-Improvements-1.21-0.5.3",
+      "fileName": "AI-Improvements-1.21-0.5.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AI-Improvements-1.21-0.5.3.jar",
+      "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
     },
     {
       "name": "AkashicTome-1.8-30",
@@ -40,10 +82,46 @@
       "sha1": "efa3402132b28a920cde1caa420da954e691a281"
     },
     {
+      "name": "alltheleaks-1.1.9+1.21.1-neoforge",
+      "fileName": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/alltheleaks-1.1.9%2B1.21.1-neoforge.jar",
+      "sha1": "2e9d1bc9bb9801af070f59a808db232c2a6526dd"
+    },
+    {
+      "name": "almostunified-neoforge-1.21.1-1.4.1",
+      "fileName": "almostunified-neoforge-1.21.1-1.4.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/almostunified-neoforge-1.21.1-1.4.1.jar",
+      "sha1": "69913ae6d63f2e10603b272bb8a957c7d0f3f0e4"
+    },
+    {
+      "name": "alternate_current-mc1.21-1.9.0",
+      "fileName": "alternate_current-mc1.21-1.9.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/alternate_current-mc1.21-1.9.0.jar",
+      "sha1": "1201c14362f2bad7062d315f8a9b26afbabd2c9c"
+    },
+    {
       "name": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1",
       "fileName": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
       "sha1": "c79ab328b2c46068effebdcb3f26e98dc4404cb0"
+    },
+    {
+      "name": "animal_feeding_trough-1.1.2+1.21-neoforge",
+      "fileName": "animal_feeding_trough-1.1.2+1.21-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/animal_feeding_trough-1.1.2%2B1.21-neoforge.jar",
+      "sha1": "6c29bbeab4b2c174d9f66d6a3e9ef4e136705c5b"
+    },
+    {
+      "name": "animal_pen-neoforge-1.21-2.3.2",
+      "fileName": "animal_pen-neoforge-1.21-2.3.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/animal_pen-neoforge-1.21-2.3.2.jar",
+      "sha1": "0f1350ebb752b657de0afac83bb0264bbf4cd78d"
+    },
+    {
+      "name": "antiquetradingship-1.4.0-neoforge-1.21.1",
+      "fileName": "antiquetradingship-1.4.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/antiquetradingship-1.4.0-neoforge-1.21.1.jar",
+      "sha1": "7eb7f2255a37d43788103a00f5076d7bc20423c9"
     },
     {
       "name": "Apotheosis-1.21.1-8.5.3",
@@ -70,10 +148,22 @@
       "sha1": "26d701238bdb76a497a64f588409419ad067e557"
     },
     {
+      "name": "appleskin-neoforge-mc1.21-3.0.9",
+      "fileName": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+    },
+    {
       "name": "Applied-Mekanistics-1.6.3",
       "fileName": "Applied-Mekanistics-1.6.3.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Applied-Mekanistics-1.6.3.jar",
       "sha1": "bec4a47269ec23bca2329742e13409bfde69c5c3"
+    },
+    {
+      "name": "appliedenergistics2-19.2.17",
+      "fileName": "appliedenergistics2-19.2.17.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/appliedenergistics2-19.2.17.jar",
+      "sha1": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
     },
     {
       "name": "AppliedFlux-1.21-2.1.4-neoforge",
@@ -88,772 +178,34 @@
       "sha1": "93c2043c6a5cfbfbfba93321d044bc61d8a6547b"
     },
     {
-      "name": "ArcadiaLootbox-1.2.4",
-      "fileName": "ArcadiaLootbox-1.2.4.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ArcadiaLootbox-1.2.4.jar",
-      "sha1": "1e3563309c395af3201bc4a469b0adec8f941344"
-    },
-    {
-      "name": "AureljPaintings-1.0.5-1.21.x-neoforge",
-      "fileName": "AureljPaintings-1.0.5-1.21.x-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AureljPaintings-1.0.5-1.21.x-neoforge.jar",
-      "sha1": "5ab92f038c63bde33103941d93957d046bad8552"
-    },
-    {
-      "name": "AutochefsDelight-1.21.1-NeoForge-2.0.3",
-      "fileName": "AutochefsDelight-1.21.1-NeoForge-2.0.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AutochefsDelight-1.21.1-NeoForge-2.0.3.jar",
-      "sha1": "99e343f95c8600216db00d66e31154ccafa2088e"
-    },
-    {
-      "name": "BHMenu-NeoForge-1.21-2.4.4",
-      "fileName": "BHMenu-NeoForge-1.21-2.4.4.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BHMenu-NeoForge-1.21-2.4.4.jar",
-      "sha1": "5edcf2d9007e99c5030b6a525cd701ddfa62f10d"
-    },
-    {
-      "name": "BOMD-NeoForge-1.21-1.3.2",
-      "fileName": "BOMD-NeoForge-1.21-1.3.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BOMD-NeoForge-1.21-1.3.2.jar",
-      "sha1": "e88b07125236065f278c36b3a7051548ee104944"
-    },
-    {
-      "name": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21",
-      "fileName": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
-      "sha1": "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2"
-    },
-    {
-      "name": "BridgingMod-2.6.2+1.21.1.neoforge-release",
-      "fileName": "BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
-      "sha1": "18c4fdadf7d1b4632ae0e0914e4075847306b52f"
-    },
-    {
-      "name": "CTM-1.21-1.2.1+3",
-      "fileName": "CTM-1.21-1.2.1+3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CTM-1.21-1.2.1+3.jar",
-      "sha1": "284232c08d3b999f05417761a3efba9b08ba20a7"
-    },
-    {
-      "name": "CerbonsAPI-NeoForge-1.21-1.3.0",
-      "fileName": "CerbonsAPI-NeoForge-1.21-1.3.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CerbonsAPI-NeoForge-1.21-1.3.0.jar",
-      "sha1": "3f0d3eed4633d9ef3a713de4b39ee4e683aa9389"
-    },
-    {
-      "name": "ChatImpressiveAnimation-neoforge-1.6.0+mc1.21.5",
-      "fileName": "ChatImpressiveAnimation-neoforge-1.6.0+mc1.21.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ChatImpressiveAnimation-neoforge-1.6.0+mc1.21.5.jar",
-      "sha1": "bad1bb38da6b68c5d418f2b9ef02f4bc96759685"
-    },
-    {
-      "name": "Clumps-neoforge-1.21.1-19.0.0.1",
-      "fileName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
-    },
-    {
-      "name": "CodeChickenLib-1.21.1-4.6.1.526",
-      "fileName": "CodeChickenLib-1.21.1-4.6.1.526.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CodeChickenLib-1.21.1-4.6.1.526.jar",
-      "sha1": "6a278b5a2788c2fee7ae52d17f24187332d436b2"
-    },
-    {
-      "name": "ConstructionSticks-1.21.1-1.3.0",
-      "fileName": "ConstructionSticks-1.21.1-1.3.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ConstructionSticks-1.21.1-1.3.0.jar",
-      "sha1": "c73da674b08848c835ff45eadf47fdc8584fef82"
-    },
-    {
-      "name": "Controlling-neoforge-1.21.1-19.0.5",
-      "fileName": "Controlling-neoforge-1.21.1-19.0.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Controlling-neoforge-1.21.1-19.0.5.jar",
-      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
-    },
-    {
-      "name": "Corgilib-NeoForge-1.21.1-5.0.0.9",
-      "fileName": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
-      "sha1": "6699f876f9e10f936910055f7fe1a283d8bb9e0f"
-    },
-    {
-      "name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9",
-      "fileName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
-      "sha1": "a7a2945e8544a3a109ddb01f9c32574fc1e4b902"
-    },
-    {
-      "name": "Create Encased-1.21.1-1.8.1",
-      "fileName": "Create Encased-1.21.1-1.8.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Create%20Encased-1.21.1-1.8.1.jar",
-      "sha1": "690642ed6b4d185a742055ffb6279e58b4b3ad48"
-    },
-    {
-      "name": "CreateDragonsPlus-1.10.1",
-      "fileName": "CreateDragonsPlus-1.10.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CreateDragonsPlus-1.10.1.jar",
-      "sha1": "0759898cc7ca22ece49e7d7a210db8becfd79cdf"
-    },
-    {
-      "name": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1",
-      "fileName": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
-      "sha1": "c3f1aa493ce0d3d60ba76e2b2d6b1dd65f60bde6"
-    },
-    {
-      "name": "CreeperOverhaul-neoforge-1.21.1-4.0.6",
-      "fileName": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
-      "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565"
-    },
-    {
-      "name": "DumplingsDelightRewrapped-1.21.1-1.4.1",
-      "fileName": "DumplingsDelightRewrapped-1.21.1-1.4.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DumplingsDelightRewrapped-1.21.1-1.4.1.jar",
-      "sha1": "69ab0adfb311126117270eb77e0740d0119193dc"
-    },
-    {
-      "name": "DungeonCrawl-NeoForge-1.21-2.3.17",
-      "fileName": "DungeonCrawl-NeoForge-1.21-2.3.17.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
-      "sha1": "3abb84c4fcf1229fced0cc5e88fa6e9baa0aa4a7"
-    },
-    {
-      "name": "DungeonsArise-1.21.1-2.1.68-release",
-      "fileName": "DungeonsArise-1.21.1-2.1.68-release.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DungeonsArise-1.21.1-2.1.68-release.jar",
-      "sha1": "c651339154da7b9e9cf47a80fdef22c4d59cad5c"
-    },
-    {
-      "name": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge",
-      "fileName": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
-      "sha1": "ac9edb266a1360e9e4c80ed0b2f931f1505307eb"
-    },
-    {
-      "name": "EMIProfessions-neoforge-1.21.1-1.0.3",
-      "fileName": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
-      "sha1": "df830a2c4eae2cd8eaecb3445d10b86a3af0c759"
-    },
-    {
-      "name": "EnderStorage-1.21.1-2.13.0.191",
-      "fileName": "EnderStorage-1.21.1-2.13.0.191.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EnderStorage-1.21.1-2.13.0.191.jar",
-      "sha1": "5b5fc717242a9eb2d8b4a5e57ea1a38446722864"
-    },
-    {
-      "name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0",
-      "fileName": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
-      "sha1": "0ee19acd03b6f03b568b2682b7e662bfd8af73ef"
-    },
-    {
-      "name": "EquipmentCompare-1.21.1-neoforge-1.3.13",
-      "fileName": "EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
-      "sha1": "fff2c71ff62d7c74bf9e73754536706cdf4893d1"
-    },
-    {
-      "name": "EuphoriaPatcher-1.9.1-r5.8.1-neoforge",
-      "fileName": "EuphoriaPatcher-1.9.1-r5.8.1-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EuphoriaPatcher-1.9.1-r5.8.1-neoforge.jar",
-      "sha1": "6042ad281e8bd67e8b4c4ccf46a9779b6fda2ff6"
-    },
-    {
-      "name": "ExtendedAE-1.21-2.2.32-neoforge",
-      "fileName": "ExtendedAE-1.21-2.2.32-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ExtendedAE-1.21-2.2.32-neoforge.jar",
-      "sha1": "b2bba835132d10dabd8f03dd89c9f3892056dfc6"
-    },
-    {
-      "name": "ExtremeSoundMuffler-3.56_NeoForge-1.21",
-      "fileName": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
-      "sha1": "f8b558f8c464f202f4a88a44332b3a495c0dc727"
-    },
-    {
-      "name": "FarmersDelight-1.21.1-1.3.2",
-      "fileName": "FarmersDelight-1.21.1-1.3.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FarmersDelight-1.21.1-1.3.2.jar",
-      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622"
-    },
-    {
-      "name": "FarmersStructures-1.0.2-1.21.1_neoforge",
-      "fileName": "FarmersStructures-1.0.2-1.21.1_neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FarmersStructures-1.0.2-1.21.1_neoforge.jar",
-      "sha1": "72c8a17af70dd78a045b4b2678b8ac2d1a2b7d39"
-    },
-    {
-      "name": "FastFurnace-1.21.1-9.0.1",
-      "fileName": "FastFurnace-1.21.1-9.0.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FastFurnace-1.21.1-9.0.1.jar",
-      "sha1": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3"
-    },
-    {
-      "name": "FastSuite-1.21.1-6.0.7",
-      "fileName": "FastSuite-1.21.1-6.0.7.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FastSuite-1.21.1-6.0.7.jar",
-      "sha1": "664e62684311f727f1fac18f0de28e5317874b7e"
-    },
-    {
-      "name": "FastWorkbench-1.21.1-9.1.3",
-      "fileName": "FastWorkbench-1.21.1-9.1.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FastWorkbench-1.21.1-9.1.3.jar",
-      "sha1": "7343b63ded70c0546811c768118d16d3a86418ee"
-    },
-    {
-      "name": "FluxNetworks-1.21.1-8.0.0",
-      "fileName": "FluxNetworks-1.21.1-8.0.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FluxNetworks-1.21.1-8.0.0.jar",
-      "sha1": "183342f454428084748f2784c8efd748664a9f9c"
-    },
-    {
-      "name": "FramedBlocks-10.5.3",
-      "fileName": "FramedBlocks-10.5.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FramedBlocks-10.5.3.jar",
-      "sha1": "bbbd02f99ab559bc68a72e3441e821c5cf81d8f1"
-    },
-    {
-      "name": "GatewaysToEternity-1.21.1-5.1.0",
-      "fileName": "GatewaysToEternity-1.21.1-5.1.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/GatewaysToEternity-1.21.1-5.1.0.jar",
-      "sha1": "f91a593378209f527fe81e731ca60fe8f8da2319"
-    },
-    {
-      "name": "Glassential-renewed-1.21.1-3.4.2",
-      "fileName": "Glassential-renewed-1.21.1-3.4.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Glassential-renewed-1.21.1-3.4.2.jar",
-      "sha1": "c7875d444b85a019381b8ea36c21c9c93e112f8a"
-    },
-    {
-      "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
-      "fileName": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
-      "sha1": "a31c3f36330f19aa538add3d727782a62c9c30ad"
-    },
-    {
-      "name": "Glodium-1.21-2.2-neoforge",
-      "fileName": "Glodium-1.21-2.2-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Glodium-1.21-2.2-neoforge.jar",
-      "sha1": "9f61a3162665ad0b37f6f268339ac98097af1a87"
-    },
-    {
-      "name": "GravitationalModulatingAdditionalUnit-1.21.1-6.4",
-      "fileName": "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
-      "sha1": "244d8b57aa7d34e247f3dd09cacf647a9ba1cfab"
-    },
-    {
-      "name": "HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b",
-      "fileName": "HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar",
-      "sha1": "4faf3ab27564c11dd710364849e32bdf5da0e0fd"
-    },
-    {
-      "name": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b",
-      "fileName": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
-      "sha1": "52875dc5fd560c99721565bfced9c47dbff9acfa"
-    },
-    {
-      "name": "HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1b",
-      "fileName": "HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1b.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1b.jar",
-      "sha1": "1e033af9a73d11f68af304d1a46821c0118a70ca"
-    },
-    {
-      "name": "HostileNeuralNetworks-1.21.1-6.3.0",
-      "fileName": "HostileNeuralNetworks-1.21.1-6.3.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HostileNeuralNetworks-1.21.1-6.3.0.jar",
-      "sha1": "7e026e8d78bb40bc52ff0857d25ebb5b1a05714b"
-    },
-    {
-      "name": "Iceberg-1.21.1-neoforge-1.3.2",
-      "fileName": "Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8"
-    },
-    {
-      "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1",
-      "fileName": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
-      "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
-    },
-    {
-      "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1",
-      "fileName": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
-      "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d"
-    },
-    {
-      "name": "InventoryProfilesNext-neoforge-1.21.1-2.2.5",
-      "fileName": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-      "sha1": "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc"
-    },
-    {
-      "name": "Jade-1.21.1-NeoForge-15.10.5",
-      "fileName": "Jade-1.21.1-NeoForge-15.10.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Jade-1.21.1-NeoForge-15.10.5.jar",
-      "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50"
-    },
-    {
-      "name": "JadeAddons-1.21.1-NeoForge-6.1.0",
-      "fileName": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
-      "sha1": "d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3"
-    },
-    {
-      "name": "JustEnoughMekanismMultiblocks-1.21.1-7.15",
-      "fileName": "JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
-      "sha1": "160c5d10059c5f98bac91f46ef9cc287fa12a964"
-    },
-    {
-      "name": "L_Ender's Cataclysm 1.21.1-3.28",
-      "fileName": "L_Ender's Cataclysm 1.21.1-3.28.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/L_Ender%27s%20Cataclysm%201.21.1-3.28.jar",
-      "sha1": "450584c5f708a7d0abb32fb2fe1d2dc7d1afb426"
-    },
-    {
-      "name": "LegendaryTooltips-1.21.1-neoforge-1.5.5",
-      "fileName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
-      "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b"
-    },
-    {
-      "name": "Loot Beams Refork-neoforge-1.21.1-3.4.5",
-      "fileName": "Loot Beams Refork-neoforge-1.21.1-3.4.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Loot%20Beams%20Refork-neoforge-1.21.1-3.4.5.jar",
-      "sha1": "b8244364b08f8202df3f2a06c35c40947dabe470"
-    },
-    {
-      "name": "Measurements-neoforge-1.21.1-3.0.3",
-      "fileName": "Measurements-neoforge-1.21.1-3.0.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Measurements-neoforge-1.21.1-3.0.3.jar",
-      "sha1": "4c415df21ffe02b6619c204b84d20dbe94b5f3b1"
-    },
-    {
-      "name": "Mekanism-1.21.1-10.7.19.85",
-      "fileName": "Mekanism-1.21.1-10.7.19.85.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Mekanism-1.21.1-10.7.19.85.jar",
-      "sha1": "b78945c40cfe7640408f3fd1e44da385a8c8b805"
-    },
-    {
-      "name": "MekanismGenerators-1.21.1-10.7.19.85",
-      "fileName": "MekanismGenerators-1.21.1-10.7.19.85.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MekanismGenerators-1.21.1-10.7.19.85.jar",
-      "sha1": "44c4d8006597580ff7e4101b5a22f7b426cdcaf6"
-    },
-    {
-      "name": "MekanismTools-1.21.1-10.7.19.85",
-      "fileName": "MekanismTools-1.21.1-10.7.19.85.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MekanismTools-1.21.1-10.7.19.85.jar",
-      "sha1": "4433b3eec0a5a0bf415d873e710a1cecea5850bc"
-    },
-    {
-      "name": "MekanismWeapons-1.21.1-3.0",
-      "fileName": "MekanismWeapons-1.21.1-3.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MekanismWeapons-1.21.1-3.0.jar",
-      "sha1": "9c10bf556be435595c47ea8873afeaa5485aecab"
-    },
-    {
-      "name": "Modern-Dynamics-0.9.6",
-      "fileName": "Modern-Dynamics-0.9.6.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Modern-Dynamics-0.9.6.jar",
-      "sha1": "3f206d55dc002f217a2a4e5b1cce9327fd67bfa6"
-    },
-    {
-      "name": "Modern-Industrialization-2.4.3",
-      "fileName": "Modern-Industrialization-2.4.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Modern-Industrialization-2.4.3.jar",
-      "sha1": "b41c4d8c02eadc09f8614c4561384b6854245ff4"
-    },
-    {
-      "name": "MoreMekanismProcessing-1.21.1-6.8",
-      "fileName": "MoreMekanismProcessing-1.21.1-6.8.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MoreMekanismProcessing-1.21.1-6.8.jar",
-      "sha1": "f4dbb8c2307f3ff6ca31229068ea0243659a5c7e"
-    },
-    {
-      "name": "MoreRed-CCT-Compat-1.21.1-1.3.0",
-      "fileName": "MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
-      "sha1": "534c64c86798ca691f0565bbf3fe09c9795a12df"
-    },
-    {
-      "name": "MoreTotems-neoforge-1.21-2.20.3",
-      "fileName": "MoreTotems-neoforge-1.21-2.20.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MoreTotems-neoforge-1.21-2.20.3.jar",
-      "sha1": "53dc2f5ffafe2f0b4398379a7d48a7083e2e223b"
-    },
-    {
-      "name": "MouseTweaks-neoforge-mc1.21-2.26.1",
-      "fileName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
-    },
-    {
-      "name": "NaNny-1.21.1-1.0.1",
-      "fileName": "NaNny-1.21.1-1.0.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/NaNny-1.21.1-1.0.1.jar",
-      "sha1": "d0f2905bb2bc9a404531d63042e3eb5091ec105f"
-    },
-    {
-      "name": "NaturesCompass-1.21.1-3.4.0-neoforge",
-      "fileName": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
-      "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95"
-    },
-    {
-      "name": "Nirvana Lib-neoforge-1.21.1-2.2.0",
-      "fileName": "Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Nirvana%20Lib-neoforge-1.21.1-2.2.0.jar",
-      "sha1": "fa44604cb163447561611909e1221a96bf3286f6"
-    },
-    {
-      "name": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21",
-      "fileName": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3+1.21.jar",
-      "sha1": "e0c36cd85d3d31cc2afb1bfc6b885f505245252f"
-    },
-    {
-      "name": "OctoLib-NEOFORGE-0.6.2+1.21",
-      "fileName": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/OctoLib-NEOFORGE-0.6.2+1.21.jar",
-      "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
-    },
-    {
-      "name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5",
-      "fileName": "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
-      "sha1": "b7d028def9c15698dff076e1c606d4496f0a2730"
-    },
-    {
-      "name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2",
-      "fileName": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
-      "sha1": "1867792e4e3d9fc6bb7acabb31cbec7a3d49ecad"
-    },
-    {
-      "name": "OpenLoader-neoforge-1.21.1-21.1.5",
-      "fileName": "OpenLoader-neoforge-1.21.1-21.1.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/OpenLoader-neoforge-1.21.1-21.1.5.jar",
-      "sha1": "b4b49fa0bbefcecd41aaba60aca38c3658ac2c46"
-    },
-    {
-      "name": "Patchouli-1.21.1-93-NEOFORGE",
-      "fileName": "Patchouli-1.21.1-93-NEOFORGE.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Patchouli-1.21.1-93-NEOFORGE.jar",
-      "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
-    },
-    {
-      "name": "Perception-NEOFORGE-0.2.1+1.21.1",
-      "fileName": "Perception-NEOFORGE-0.2.1+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Perception-NEOFORGE-0.2.1+1.21.1.jar",
-      "sha1": "ea6d1403c8bc5cdda2727c1a90b29284c0ed653a"
-    },
-    {
-      "name": "PingHUD-4.0",
-      "fileName": "PingHUD-4.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/PingHUD-4.0.jar",
-      "sha1": "6f1b2a4a11440d07529957df80a525606cc8f2f5"
-    },
-    {
-      "name": "Placebo-1.21.1-9.9.1",
-      "fileName": "Placebo-1.21.1-9.9.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Placebo-1.21.1-9.9.1.jar",
-      "sha1": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
-    },
-    {
-      "name": "Powah-6.2.10",
-      "fileName": "Powah-6.2.10.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Powah-6.2.10.jar",
-      "sha1": "f134ab3e0ace3793abf93129e318eb817898a4e1"
-    },
-    {
-      "name": "Prism-1.21.1-neoforge-1.0.11",
-      "fileName": "Prism-1.21.1-neoforge-1.0.11.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Prism-1.21.1-neoforge-1.0.11.jar",
-      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f"
-    },
-    {
-      "name": "Replication-1.21.1-1.2.7",
-      "fileName": "Replication-1.21.1-1.2.7.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Replication-1.21.1-1.2.7.jar",
-      "sha1": "bb433ec94394e960ba26fc2e7fd5537fcb7fbe50"
-    },
-    {
-      "name": "Ribbits-1.21.1-NeoForge-4.1.6",
-      "fileName": "Ribbits-1.21.1-NeoForge-4.1.6.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Ribbits-1.21.1-NeoForge-4.1.6.jar",
-      "sha1": "22dfd6a52d31bcab58b93c2d4a637ae1b2a01895"
-    },
-    {
-      "name": "Searchables-neoforge-1.21.1-1.0.2",
-      "fileName": "Searchables-neoforge-1.21.1-1.0.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Searchables-neoforge-1.21.1-1.0.2.jar",
-      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
-    },
-    {
-      "name": "SereneSeasons-neoforge-1.21.1-10.1.0.3",
-      "fileName": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "sha1": "8b9034d4c43f880b1f1ebdd3943219de0b0bc4c5"
-    },
-    {
-      "name": "Serverstarted-neoforge-1.21-1.0",
-      "fileName": "Serverstarted-neoforge-1.21-1.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Serverstarted-neoforge-1.21-1.0.jar",
-      "sha1": "f81480e1e058d64a9ccedf888490c889d7f18042"
-    },
-    {
-      "name": "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1",
-      "fileName": "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar",
-      "sha1": "3bcccf27fb2f954a81a3984bcb1ee8ea636d7247"
-    },
-    {
-      "name": "SimplePocketMachines-NeoForge-1.21.1-1.0.4",
-      "fileName": "SimplePocketMachines-NeoForge-1.21.1-1.0.4.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SimplePocketMachines-NeoForge-1.21.1-1.0.4.jar",
-      "sha1": "8167b804b981b213a0048d7a1575c7da41823c4b"
-    },
-    {
-      "name": "SmartBrainLib-neoforge-1.21.1-1.16.11",
-      "fileName": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
-      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836"
-    },
-    {
-      "name": "Structory_26.1_v1.3.16",
-      "fileName": "Structory_26.1_v1.3.16.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Structory_26.1_v1.3.16.jar",
-      "sha1": "ee48f145a3a09fdb3f492576cbc21ed26abc74bb"
-    },
-    {
-      "name": "Structory_Towers_26.1_v1.0.16",
-      "fileName": "Structory_Towers_26.1_v1.0.16.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Structory_Towers_26.1_v1.0.16.jar",
-      "sha1": "ed22fe659cb3020f2e86b7619ce721714b9546be"
-    },
-    {
-      "name": "SubtleEffects-neoforge-1.21.1-1.14.3",
-      "fileName": "SubtleEffects-neoforge-1.21.1-1.14.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
-      "sha1": "f0c846484bd7c769b88f38ab31429457f52552d7"
-    },
-    {
-      "name": "Super Factory Manager (SFM)-MC1.21.1-4.32.0",
-      "fileName": "Super Factory Manager (SFM)-MC1.21.1-4.32.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Super%20Factory%20Manager%20(SFM)-MC1.21.1-4.32.0.jar",
-      "sha1": "5f2ea7f8cd33e5a99829155f392fdc4bad33fbc9"
-    },
-    {
-      "name": "TerraBlender-neoforge-1.21.1-4.1.0.8",
-      "fileName": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191"
-    },
-    {
-      "name": "TravelersTitles-1.21.1-NeoForge-5.1.3",
-      "fileName": "TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
-      "sha1": "166cba4d367c6dd103d1d5dcab7a31174bec799e"
-    },
-    {
-      "name": "TwilightTreehouses-1.0.2-1.21.1-neoforge",
-      "fileName": "TwilightTreehouses-1.0.2-1.21.1-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/TwilightTreehouses-1.0.2-1.21.1-neoforge.jar",
-      "sha1": "723a03a67f81dd42aa2e9a07b1ff665d18d80421"
-    },
-    {
-      "name": "WitherSkeletonTweaks-1.21.1-10.1.1",
-      "fileName": "WitherSkeletonTweaks-1.21.1-10.1.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/WitherSkeletonTweaks-1.21.1-10.1.1.jar",
-      "sha1": "eda07efc2f5e47492abe205295b182c219c6199f"
-    },
-    {
-      "name": "YungsApi-1.21.1-NeoForge-5.1.6",
-      "fileName": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsApi-1.21.1-NeoForge-5.1.6.jar",
-      "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b"
-    },
-    {
-      "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5",
-      "fileName": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
-      "sha1": "90529257dbd92558998c65178294bc7b2fd16a64"
-    },
-    {
-      "name": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4",
-      "fileName": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4"
-    },
-    {
-      "name": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2",
-      "fileName": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19"
-    },
-    {
-      "name": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2",
-      "fileName": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
-      "sha1": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8"
-    },
-    {
-      "name": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1",
-      "fileName": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
-      "sha1": "6a14e1d8201f068ca87ef8333e471c5378955906"
-    },
-    {
-      "name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5",
-      "fileName": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
-      "sha1": "4061ece2141475227646649046fc14c2da505922"
-    },
-    {
-      "name": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2",
-      "fileName": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
-      "sha1": "fba629defdb92ad99ec4f411895afb6e19555a18"
-    },
-    {
-      "name": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3",
-      "fileName": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
-      "sha1": "5d06a5850af7c577612d4592706a8e156bbe1cbf"
-    },
-    {
-      "name": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1",
-      "fileName": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
-      "sha1": "bbf6c91f4a2829c58bc024eaaab821986bc93de6"
-    },
-    {
-      "name": "YungsBridges-1.21.1-NeoForge-5.1.1",
-      "fileName": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
-      "sha1": "18099c2d54acd16bb8ab90a66f40fa16496d065e"
-    },
-    {
-      "name": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1",
-      "fileName": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
-      "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04"
-    },
-    {
-      "name": "YungsExtras-1.21.1-NeoForge-5.1.1",
-      "fileName": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
-      "sha1": "62833733aaf407f36bdacf648ed4b2ef9940662b"
-    },
-    {
-      "name": "accelerated-decay-neoforge-21.0.0",
-      "fileName": "accelerated-decay-neoforge-21.0.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/accelerated-decay-neoforge-21.0.0.jar",
-      "sha1": "b023fe4daf1379f0f4233bea02ba112f3854db3e"
-    },
-    {
-      "name": "aces_spell_utils-1.2.6.1-1.21.1",
-      "fileName": "aces_spell_utils-1.2.6.1-1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/aces_spell_utils-1.2.6.1-1.21.1.jar",
-      "sha1": "6cad17fe69b70ac13c2d31cd6e2cad15e21998e8"
-    },
-    {
-      "name": "actuallyadditions-1.3.25+mc1.21.1",
-      "fileName": "actuallyadditions-1.3.25+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/actuallyadditions-1.3.25+mc1.21.1.jar",
-      "sha1": "6b82d694f873c0bae4a9757654ee4c719b3d7354"
-    },
-    {
-      "name": "advancednetherite-neoforge-2.3.1-1.21.1",
-      "fileName": "advancednetherite-neoforge-2.3.1-1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/advancednetherite-neoforge-2.3.1-1.21.1.jar",
-      "sha1": "99003aafa635f316bdcf2db4a70989890a4d944d"
-    },
-    {
-      "name": "ae2ct-1.21.1-1.1.1",
-      "fileName": "ae2ct-1.21.1-1.1.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ae2ct-1.21.1-1.1.1.jar",
-      "sha1": "2e425a9dc8891bdcd3b2914506d1bc33414b61be"
-    },
-    {
-      "name": "ae2importexportcard-1.21.1-1.5.0",
-      "fileName": "ae2importexportcard-1.21.1-1.5.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ae2importexportcard-1.21.1-1.5.0.jar",
-      "sha1": "4434d42eace0e574ecb42dffb7770f9f927d71e1"
-    },
-    {
-      "name": "ae2wtlib-19.5.0",
-      "fileName": "ae2wtlib-19.5.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ae2wtlib-19.5.0.jar",
-      "sha1": "de72e7f4d8d9d29dbe7f8790644b32f6c5b9655f"
-    },
-    {
-      "name": "alltheleaks-1.1.9+1.21.1-neoforge",
-      "fileName": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/alltheleaks-1.1.9+1.21.1-neoforge.jar",
-      "sha1": "2e9d1bc9bb9801af070f59a808db232c2a6526dd"
-    },
-    {
-      "name": "almostunified-neoforge-1.21.1-1.4.1",
-      "fileName": "almostunified-neoforge-1.21.1-1.4.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/almostunified-neoforge-1.21.1-1.4.1.jar",
-      "sha1": "69913ae6d63f2e10603b272bb8a957c7d0f3f0e4"
-    },
-    {
-      "name": "alternate_current-mc1.21-1.9.0",
-      "fileName": "alternate_current-mc1.21-1.9.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/alternate_current-mc1.21-1.9.0.jar",
-      "sha1": "1201c14362f2bad7062d315f8a9b26afbabd2c9c"
-    },
-    {
-      "name": "animal_feeding_trough-1.1.2+1.21-neoforge",
-      "fileName": "animal_feeding_trough-1.1.2+1.21-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/animal_feeding_trough-1.1.2+1.21-neoforge.jar",
-      "sha1": "6c29bbeab4b2c174d9f66d6a3e9ef4e136705c5b"
-    },
-    {
-      "name": "animal_pen-neoforge-1.21-2.3.2",
-      "fileName": "animal_pen-neoforge-1.21-2.3.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/animal_pen-neoforge-1.21-2.3.2.jar",
-      "sha1": "0f1350ebb752b657de0afac83bb0264bbf4cd78d"
-    },
-    {
-      "name": "antiquetradingship-1.4.0-neoforge-1.21.1",
-      "fileName": "antiquetradingship-1.4.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/antiquetradingship-1.4.0-neoforge-1.21.1.jar",
-      "sha1": "7eb7f2255a37d43788103a00f5076d7bc20423c9"
-    },
-    {
-      "name": "appleskin-neoforge-mc1.21-3.0.9",
-      "fileName": "appleskin-neoforge-mc1.21-3.0.9.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/appleskin-neoforge-mc1.21-3.0.9.jar",
-      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
-    },
-    {
-      "name": "appliedenergistics2-19.2.17",
-      "fileName": "appliedenergistics2-19.2.17.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/appliedenergistics2-19.2.17.jar",
-      "sha1": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
-    },
-    {
       "name": "arcadia-lib-1.2.12",
       "fileName": "arcadia-lib-1.2.12.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/arcadia-lib-1.2.12.jar",
       "sha1": "11f9cfd18e732277015d5e5c4fb177b7a74335b4"
     },
     {
+      "name": "ArcadiaLootbox-1.2.4",
+      "fileName": "ArcadiaLootbox-1.2.4.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ArcadiaLootbox-1.2.4.jar",
+      "sha1": "1e3563309c395af3201bc4a469b0adec8f941344"
+    },
+    {
       "name": "architectury-13.0.8-neoforge",
       "fileName": "architectury-13.0.8-neoforge.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/architectury-13.0.8-neoforge.jar",
       "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+    },
+    {
+      "name": "arsdelight-2.2.1",
+      "fileName": "arsdelight-2.2.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/arsdelight-2.2.1.jar",
+      "sha1": "59dfe463a6bd78c04bd01559f462e724bd4e6eed"
+    },
+    {
+      "name": "arseng-2.1.1-beta",
+      "fileName": "arseng-2.1.1-beta.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/arseng-2.1.1-beta.jar",
+      "sha1": "e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6"
     },
     {
       "name": "ars_additions-1.21.1-21.3.0",
@@ -910,18 +262,6 @@
       "sha1": "7e1ed50f6f29dcbf04c08363c5b2174adcb205e4"
     },
     {
-      "name": "arsdelight-2.2.1",
-      "fileName": "arsdelight-2.2.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/arsdelight-2.2.1.jar",
-      "sha1": "59dfe463a6bd78c04bd01559f462e724bd4e6eed"
-    },
-    {
-      "name": "arseng-2.1.1-beta",
-      "fileName": "arseng-2.1.1-beta.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/arseng-2.1.1-beta.jar",
-      "sha1": "e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6"
-    },
-    {
       "name": "artifacts-neoforge-13.2.1",
       "fileName": "artifacts-neoforge-13.2.1.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/artifacts-neoforge-13.2.1.jar",
@@ -952,6 +292,18 @@
       "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba"
     },
     {
+      "name": "AureljPaintings-1.0.5-1.21.x-neoforge",
+      "fileName": "AureljPaintings-1.0.5-1.21.x-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AureljPaintings-1.0.5-1.21.x-neoforge.jar",
+      "sha1": "5ab92f038c63bde33103941d93957d046bad8552"
+    },
+    {
+      "name": "AutochefsDelight-1.21.1-NeoForge-2.0.3",
+      "fileName": "AutochefsDelight-1.21.1-NeoForge-2.0.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/AutochefsDelight-1.21.1-NeoForge-2.0.3.jar",
+      "sha1": "99e343f95c8600216db00d66e31154ccafa2088e"
+    },
+    {
       "name": "azurelib-neo-1.21.1-3.1.8",
       "fileName": "azurelib-neo-1.21.1-3.1.8.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/azurelib-neo-1.21.1-3.1.8.jar",
@@ -966,7 +318,7 @@
     {
       "name": "bankstorage-1.6.1+1.21",
       "fileName": "bankstorage-1.6.1+1.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/bankstorage-1.6.1+1.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/bankstorage-1.6.1%2B1.21.jar",
       "sha1": "dee878f03ce749857d8a380b91f6b8f491532f72"
     },
     {
@@ -988,10 +340,22 @@
       "sha1": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb"
     },
     {
+      "name": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21",
+      "fileName": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha1": "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2"
+    },
+    {
       "name": "better_modlist-1.1.22",
       "fileName": "better_modlist-1.1.22.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/better_modlist-1.1.22.jar",
       "sha1": "c5c49876cf0e036c631b0909fed6903d7e28cc45"
+    },
+    {
+      "name": "BHMenu-NeoForge-1.21-2.4.4",
+      "fileName": "BHMenu-NeoForge-1.21-2.4.4.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BHMenu-NeoForge-1.21-2.4.4.jar",
+      "sha1": "5edcf2d9007e99c5030b6a525cd701ddfa62f10d"
     },
     {
       "name": "bigger_ae2-1.21.1-1.4.8",
@@ -1012,10 +376,22 @@
       "sha1": "0e78defafd6cf08759c656a54f8a33315e3ab924"
     },
     {
+      "name": "BOMD-NeoForge-1.21-1.3.2",
+      "fileName": "BOMD-NeoForge-1.21-1.3.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BOMD-NeoForge-1.21-1.3.2.jar",
+      "sha1": "e88b07125236065f278c36b3a7051548ee104944"
+    },
+    {
       "name": "bookshelf-neoforge-1.21.1-21.1.81",
       "fileName": "bookshelf-neoforge-1.21.1-21.1.81.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
+    },
+    {
+      "name": "BridgingMod-2.6.2+1.21.1.neoforge-release",
+      "fileName": "BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/BridgingMod-2.6.2%2B1.21.1.neoforge-release.jar",
+      "sha1": "18c4fdadf7d1b4632ae0e0914e4075847306b52f"
     },
     {
       "name": "buildinggadgets2-1.3.9",
@@ -1032,7 +408,7 @@
     {
       "name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93",
       "fileName": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.93.jar",
       "sha1": "942a6d51d4c475117418a6a36b46833a8128fbc7"
     },
     {
@@ -1044,7 +420,7 @@
     {
       "name": "caelus-neoforge-7.0.1+1.21.1",
       "fileName": "caelus-neoforge-7.0.1+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/caelus-neoforge-7.0.1+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/caelus-neoforge-7.0.1%2B1.21.1.jar",
       "sha1": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
     },
     {
@@ -1066,6 +442,12 @@
       "sha1": "aaf6233b23e1ff01ed286824ba359aaa5eed0918"
     },
     {
+      "name": "CerbonsAPI-NeoForge-1.21-1.3.0",
+      "fileName": "CerbonsAPI-NeoForge-1.21-1.3.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CerbonsAPI-NeoForge-1.21-1.3.0.jar",
+      "sha1": "3f0d3eed4633d9ef3a713de4b39ee4e683aa9389"
+    },
+    {
       "name": "cfm_wap-1.21.1-neoforge-1.2.0",
       "fileName": "cfm_wap-1.21.1-neoforge-1.2.0.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cfm_wap-1.21.1-neoforge-1.2.0.jar",
@@ -1080,8 +462,20 @@
     {
       "name": "charmofundying-neoforge-9.1.0+1.21.1",
       "fileName": "charmofundying-neoforge-9.1.0+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/charmofundying-neoforge-9.1.0+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/charmofundying-neoforge-9.1.0%2B1.21.1.jar",
       "sha1": "891d5b49920401fd960b2d8819f490496a0986dc"
+    },
+    {
+      "name": "ChatImpressiveAnimation-neoforge-1.6.0+mc1.21.5",
+      "fileName": "ChatImpressiveAnimation-neoforge-1.6.0+mc1.21.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ChatImpressiveAnimation-neoforge-1.6.0%2Bmc1.21.5.jar",
+      "sha1": "bad1bb38da6b68c5d418f2b9ef02f4bc96759685"
+    },
+    {
+      "name": "chattoggle-5.0.1+1.21-neoforge",
+      "fileName": "chattoggle-5.0.1+1.21-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/chattoggle-5.0.1%2B1.21-neoforge.jar",
+      "sha1": "ff6fe8b73779e3764e262ec3ad18456c7990fd73"
     },
     {
       "name": "chat_heads-0.15.1-neoforge-1.21",
@@ -1090,15 +484,9 @@
       "sha1": "650ff9d879051196c8c46b5718342db46c745cc9"
     },
     {
-      "name": "chattoggle-5.0.1+1.21-neoforge",
-      "fileName": "chattoggle-5.0.1+1.21-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/chattoggle-5.0.1+1.21-neoforge.jar",
-      "sha1": "ff6fe8b73779e3764e262ec3ad18456c7990fd73"
-    },
-    {
       "name": "cherishedworlds-neoforge-10.1.1+1.21.1",
       "fileName": "cherishedworlds-neoforge-10.1.1+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cherishedworlds-neoforge-10.1.1%2B1.21.1.jar",
       "sha1": "aefc8c79ba62606a71f509a9b3c881f3fc4cad5c"
     },
     {
@@ -1110,7 +498,7 @@
     {
       "name": "chisel-neoforge-2.0.0+mc1.21.1",
       "fileName": "chisel-neoforge-2.0.0+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/chisel-neoforge-2.0.0+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/chisel-neoforge-2.0.0%2Bmc1.21.1.jar",
       "sha1": "44e432ddc1f6fa9cf05201a9aef3ae4c5784cc9d"
     },
     {
@@ -1132,6 +520,18 @@
       "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
     },
     {
+      "name": "Clumps-neoforge-1.21.1-19.0.0.1",
+      "fileName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "name": "CodeChickenLib-1.21.1-4.6.1.526",
+      "fileName": "CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "sha1": "6a278b5a2788c2fee7ae52d17f24187332d436b2"
+    },
+    {
       "name": "colorfulhearts-neoforge-1.21.1-10.5.9",
       "fileName": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/colorfulhearts-neoforge-1.21.1-10.5.9.jar",
@@ -1140,13 +540,13 @@
     {
       "name": "colorwheel-neoforge-1.2.7+mc1.21.1",
       "fileName": "colorwheel-neoforge-1.2.7+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/colorwheel-neoforge-1.2.7+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/colorwheel-neoforge-1.2.7%2Bmc1.21.1.jar",
       "sha1": "890fccd7b569b4637feec89ac77a80b3170e16c8"
     },
     {
       "name": "comforts-neoforge-9.0.5+1.21.1",
       "fileName": "comforts-neoforge-9.0.5+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/comforts-neoforge-9.0.5+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/comforts-neoforge-9.0.5%2B1.21.1.jar",
       "sha1": "21d6bee3821d62fe3356c51fb1d697871a3087ff"
     },
     {
@@ -1168,10 +568,28 @@
       "sha1": "dcffc21e62a82c5d870ab13dc5c92687430d65b5"
     },
     {
+      "name": "ConstructionSticks-1.21.1-1.3.0",
+      "fileName": "ConstructionSticks-1.21.1-1.3.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ConstructionSticks-1.21.1-1.3.0.jar",
+      "sha1": "c73da674b08848c835ff45eadf47fdc8584fef82"
+    },
+    {
+      "name": "Controlling-neoforge-1.21.1-19.0.5",
+      "fileName": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+    },
+    {
       "name": "cookingforblockheads-neoforge-1.21.1-21.1.23",
       "fileName": "cookingforblockheads-neoforge-1.21.1-21.1.23.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cookingforblockheads-neoforge-1.21.1-21.1.23.jar",
       "sha1": "2718f450133d921bb8e7772e3e009efe23acc20d"
+    },
+    {
+      "name": "Corgilib-NeoForge-1.21.1-5.0.0.9",
+      "fileName": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "sha1": "6699f876f9e10f936910055f7fe1a283d8bb9e0f"
     },
     {
       "name": "craftingstation-neoforge-1.21.1-5",
@@ -1192,6 +610,12 @@
       "sha1": "a9727cbcae122d1f0076fde3a5dbe3513d5eca45"
     },
     {
+      "name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9",
+      "fileName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+      "sha1": "a7a2945e8544a3a109ddb01f9c32574fc1e4b902"
+    },
+    {
       "name": "crashutilities-9.0.4",
       "fileName": "crashutilities-9.0.4.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/crashutilities-9.0.4.jar",
@@ -1210,16 +634,16 @@
       "sha1": "e9a57b322459bda9905e4287d2582ad600909b11"
     },
     {
-      "name": "create_connected-1.1.16-mc1.21.1",
-      "fileName": "create_connected-1.1.16-mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/create_connected-1.1.16-mc1.21.1.jar",
-      "sha1": "34387f129eaef1799d60e67ace7da73564f41339"
+      "name": "Create.Encased-1.21.1-1.8.1",
+      "fileName": "Create.Encased-1.21.1-1.8.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Create.Encased-1.21.1-1.8.1.jar",
+      "sha1": ""
     },
     {
-      "name": "create_pattern_schematics-2.0.10",
-      "fileName": "create_pattern_schematics-2.0.10.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/create_pattern_schematics-2.0.10.jar",
-      "sha1": "e3dea574c3b3d590444796a42e8f7456280b1063"
+      "name": "CreateDragonsPlus-1.10.1",
+      "fileName": "CreateDragonsPlus-1.10.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CreateDragonsPlus-1.10.1.jar",
+      "sha1": "0759898cc7ca22ece49e7d7a210db8becfd79cdf"
     },
     {
       "name": "createfiltersanywhere-1.21.1-2.5.0",
@@ -1240,6 +664,30 @@
       "sha1": "5257686b00b3c1ed79737411577914eac182dde4"
     },
     {
+      "name": "create_connected-1.1.16-mc1.21.1",
+      "fileName": "create_connected-1.1.16-mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/create_connected-1.1.16-mc1.21.1.jar",
+      "sha1": "34387f129eaef1799d60e67ace7da73564f41339"
+    },
+    {
+      "name": "create_pattern_schematics-2.0.10",
+      "fileName": "create_pattern_schematics-2.0.10.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/create_pattern_schematics-2.0.10.jar",
+      "sha1": "e3dea574c3b3d590444796a42e8f7456280b1063"
+    },
+    {
+      "name": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1",
+      "fileName": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "sha1": "c3f1aa493ce0d3d60ba76e2b2d6b1dd65f60bde6"
+    },
+    {
+      "name": "CreeperOverhaul-neoforge-1.21.1-4.0.6",
+      "fileName": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565"
+    },
+    {
       "name": "cristellib-neoforge-1.21.1-3.1.4",
       "fileName": "cristellib-neoforge-1.21.1-3.1.4.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cristellib-neoforge-1.21.1-3.1.4.jar",
@@ -1248,7 +696,7 @@
     {
       "name": "cryonicconfig-neoforge-1.0.0+mc1.21.11",
       "fileName": "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cryonicconfig-neoforge-1.0.0%2Bmc1.21.11.jar",
       "sha1": "45b7240ad5cd561511ae3f80eea4cbfc110dae70"
     },
     {
@@ -1256,6 +704,12 @@
       "fileName": "crystalix-3.0.0.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/crystalix-3.0.0.jar",
       "sha1": "b2e75acbbf2f86b88573e89d073533d63c9fc298"
+    },
+    {
+      "name": "CTM-1.21-1.2.1+3",
+      "fileName": "CTM-1.21-1.2.1+3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/CTM-1.21-1.2.1%2B3.jar",
+      "sha1": "284232c08d3b999f05417761a3efba9b08ba20a7"
     },
     {
       "name": "cupboard-1.21-3.5",
@@ -1266,7 +720,7 @@
     {
       "name": "curios-neoforge-9.5.1+1.21.1",
       "fileName": "curios-neoforge-9.5.1+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/curios-neoforge-9.5.1%2B1.21.1.jar",
       "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
     },
     {
@@ -1342,6 +796,30 @@
       "sha1": "0e69c2a8e4e51df42e45b2d6deb3a855bdf8dce6"
     },
     {
+      "name": "DumplingsDelightRewrapped-1.21.1-1.4.1",
+      "fileName": "DumplingsDelightRewrapped-1.21.1-1.4.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DumplingsDelightRewrapped-1.21.1-1.4.1.jar",
+      "sha1": "69ab0adfb311126117270eb77e0740d0119193dc"
+    },
+    {
+      "name": "DungeonCrawl-NeoForge-1.21-2.3.17",
+      "fileName": "DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "sha1": "3abb84c4fcf1229fced0cc5e88fa6e9baa0aa4a7"
+    },
+    {
+      "name": "DungeonsArise-1.21.1-2.1.68-release",
+      "fileName": "DungeonsArise-1.21.1-2.1.68-release.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "sha1": "c651339154da7b9e9cf47a80fdef22c4d59cad5c"
+    },
+    {
+      "name": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge",
+      "fileName": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+      "sha1": "ac9edb266a1360e9e4c80ed0b2f931f1505307eb"
+    },
+    {
       "name": "easy_npc-neoforge-1.21.1-6.17.0",
       "fileName": "easy_npc-neoforge-1.21.1-6.17.0.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/easy_npc-neoforge-1.21.1-6.17.0.jar",
@@ -1368,50 +846,56 @@
     {
       "name": "elytraslot-neoforge-9.0.2+1.21.1",
       "fileName": "elytraslot-neoforge-9.0.2+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/elytraslot-neoforge-9.0.2+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/elytraslot-neoforge-9.0.2%2B1.21.1.jar",
       "sha1": "8ac6cf959fe66399aa7e86b6e6f933e07d155b7e"
     },
     {
       "name": "embeddium-1.0.15+mc1.21.1",
       "fileName": "embeddium-1.0.15+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/embeddium-1.0.15+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/embeddium-1.0.15%2Bmc1.21.1.jar",
       "sha1": "56063839172a000d079272794bad366f2ad4cbbd"
     },
     {
       "name": "emi-1.1.24+1.21.1+neoforge",
       "fileName": "emi-1.1.24+1.21.1+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi-1.1.24+1.21.1+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
       "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a"
     },
     {
       "name": "emi-letsdo-compat-2.0.1+1.21.1+neoforge",
       "fileName": "emi-letsdo-compat-2.0.1+1.21.1+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi-letsdo-compat-2.0.1+1.21.1+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi-letsdo-compat-2.0.1%2B1.21.1%2Bneoforge.jar",
       "sha1": "45771f82ee90c2428091fbfd407115853df1a712"
+    },
+    {
+      "name": "emiffect-neoforge-2.1.5+mc1.21.1",
+      "fileName": "emiffect-neoforge-2.1.5+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emiffect-neoforge-2.1.5%2Bmc1.21.1.jar",
+      "sha1": "4d48dec751310a0221254aca09d6325530e60731"
+    },
+    {
+      "name": "EMIProfessions-neoforge-1.21.1-1.0.3",
+      "fileName": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "sha1": "df830a2c4eae2cd8eaecb3445d10b86a3af0c759"
     },
     {
       "name": "emi_enchanting-0.1.2+1.21+neoforge",
       "fileName": "emi_enchanting-0.1.2+1.21+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi_enchanting-0.1.2+1.21+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar",
       "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c"
     },
     {
       "name": "emi_loot-0.7.9+1.21+neoforge",
       "fileName": "emi_loot-0.7.9+1.21+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi_loot-0.7.9+1.21+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi_loot-0.7.9%2B1.21%2Bneoforge.jar",
       "sha1": "bd0326eeda721c87a29efd78f9a52f46d572392c"
     },
     {
       "name": "emi_ores-1.2+1.21.1+neoforge",
       "fileName": "emi_ores-1.2+1.21.1+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi_ores-1.2+1.21.1+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emi_ores-1.2%2B1.21.1%2Bneoforge.jar",
       "sha1": "2326620a11ad9ca463ef3a8cfa7d8f5ae169b756"
-    },
-    {
-      "name": "emiffect-neoforge-2.1.5+mc1.21.1",
-      "fileName": "emiffect-neoforge-2.1.5+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/emiffect-neoforge-2.1.5+mc1.21.1.jar",
-      "sha1": "4d48dec751310a0221254aca09d6325530e60731"
     },
     {
       "name": "emotecraft-for-MC1.21.1-2.4.12-neoforge",
@@ -1432,9 +916,15 @@
       "sha1": "f71aa503738f2e23a8d939b7ea9f96f2fe203f11"
     },
     {
+      "name": "EnderStorage-1.21.1-2.13.0.191",
+      "fileName": "EnderStorage-1.21.1-2.13.0.191.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EnderStorage-1.21.1-2.13.0.191.jar",
+      "sha1": "5b5fc717242a9eb2d8b4a5e57ea1a38446722864"
+    },
+    {
       "name": "ends_delight-2.5.1+neoforge.1.21.1",
       "fileName": "ends_delight-2.5.1+neoforge.1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ends_delight-2.5.1+neoforge.1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ends_delight-2.5.1%2Bneoforge.1.21.1.jar",
       "sha1": "22b63e1c852fbbedb9f7add64990fd9f8eca0787"
     },
     {
@@ -1442,6 +932,12 @@
       "fileName": "entangled-1.3.21-neoforge-mc1.21.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/entangled-1.3.21-neoforge-mc1.21.jar",
       "sha1": "72d63d64ee774b89302e0d6b220757ba11b6ec4f"
+    },
+    {
+      "name": "entityculling-neoforge-1.10.2-mc1.21.1",
+      "fileName": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca"
     },
     {
       "name": "entity_model_features-3.2.4-1.21-neoforge",
@@ -1456,16 +952,28 @@
       "sha1": "56de40b237ff44dbf1bb68844e0f118607902684"
     },
     {
-      "name": "entityculling-neoforge-1.10.2-mc1.21.1",
-      "fileName": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/entityculling-neoforge-1.10.2-mc1.21.1.jar",
-      "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca"
+      "name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0",
+      "fileName": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "sha1": "0ee19acd03b6f03b568b2682b7e662bfd8af73ef"
+    },
+    {
+      "name": "EquipmentCompare-1.21.1-neoforge-1.3.13",
+      "fileName": "EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
+      "sha1": "fff2c71ff62d7c74bf9e73754536706cdf4893d1"
     },
     {
       "name": "eternalstarlight-0.8.1+1.21.1+neoforge",
       "fileName": "eternalstarlight-0.8.1+1.21.1+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/eternalstarlight-0.8.1+1.21.1+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/eternalstarlight-0.8.1%2B1.21.1%2Bneoforge.jar",
       "sha1": "7deb37b78198efafb053ca84551b3a7d573a2737"
+    },
+    {
+      "name": "EuphoriaPatcher-1.9.1-r5.8.1-neoforge",
+      "fileName": "EuphoriaPatcher-1.9.1-r5.8.1-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/EuphoriaPatcher-1.9.1-r5.8.1-neoforge.jar",
+      "sha1": "6042ad281e8bd67e8b4c4ccf46a9779b6fda2ff6"
     },
     {
       "name": "exposure-neoforge-1.21.1-1.9.16",
@@ -1486,16 +994,16 @@
       "sha1": "00122759fa931eb15bae39c46d41d54ce07a5b0e"
     },
     {
-      "name": "extra-mod-integrations-all-neoforge-1.0.3+1.21.1",
-      "fileName": "extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar",
-      "sha1": "70429571ccf7faa4c1811092739fb7d645829eef"
+      "name": "ExtendedAE-1.21-2.2.32-neoforge",
+      "fileName": "ExtendedAE-1.21-2.2.32-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ExtendedAE-1.21-2.2.32-neoforge.jar",
+      "sha1": "b2bba835132d10dabd8f03dd89c9f3892056dfc6"
     },
     {
-      "name": "extra_apoth_compat-1.0.4",
-      "fileName": "extra_apoth_compat-1.0.4.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/extra_apoth_compat-1.0.4.jar",
-      "sha1": "c75e078a7c26c2036898f066e344ba83818f50b3"
+      "name": "extra-mod-integrations-all-neoforge-1.0.3+1.21.1",
+      "fileName": "extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/extra-mod-integrations-all-neoforge-1.0.3%2B1.21.1.jar",
+      "sha1": "70429571ccf7faa4c1811092739fb7d645829eef"
     },
     {
       "name": "extrasponges-neoforge-1.21-1.6.1",
@@ -1504,9 +1012,21 @@
       "sha1": "a9716730b2adc1952e87c795c150c5ed38b58f68"
     },
     {
+      "name": "extra_apoth_compat-1.0.4",
+      "fileName": "extra_apoth_compat-1.0.4.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/extra_apoth_compat-1.0.4.jar",
+      "sha1": "c75e078a7c26c2036898f066e344ba83818f50b3"
+    },
+    {
+      "name": "ExtremeSoundMuffler-3.56_NeoForge-1.21",
+      "fileName": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "sha1": "f8b558f8c464f202f4a88a44332b3a495c0dc727"
+    },
+    {
       "name": "factory_blocks-neoforge-1.4.0+mc1.21.1",
       "fileName": "factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/factory_blocks-neoforge-1.4.0%2Bmc1.21.1.jar",
       "sha1": "51fa93c3b0978f4f7e3b801bea6822ec72522e50"
     },
     {
@@ -1528,10 +1048,40 @@
       "sha1": "add7e0e1a8dd747ada512c8d0763ef952e962bcc"
     },
     {
+      "name": "FarmersDelight-1.21.1-1.3.2",
+      "fileName": "FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FarmersDelight-1.21.1-1.3.2.jar",
+      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622"
+    },
+    {
+      "name": "FarmersStructures-1.0.2-1.21.1_neoforge",
+      "fileName": "FarmersStructures-1.0.2-1.21.1_neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FarmersStructures-1.0.2-1.21.1_neoforge.jar",
+      "sha1": "72c8a17af70dd78a045b4b2678b8ac2d1a2b7d39"
+    },
+    {
       "name": "farmingforblockheads-neoforge-1.21.1-21.1.13",
       "fileName": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
       "sha1": "0bd50d760621bfeaa4b1d649ae59eaa4fd82be63"
+    },
+    {
+      "name": "FastFurnace-1.21.1-9.0.1",
+      "fileName": "FastFurnace-1.21.1-9.0.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FastFurnace-1.21.1-9.0.1.jar",
+      "sha1": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3"
+    },
+    {
+      "name": "FastSuite-1.21.1-6.0.7",
+      "fileName": "FastSuite-1.21.1-6.0.7.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FastSuite-1.21.1-6.0.7.jar",
+      "sha1": "664e62684311f727f1fac18f0de28e5317874b7e"
+    },
+    {
+      "name": "FastWorkbench-1.21.1-9.1.3",
+      "fileName": "FastWorkbench-1.21.1-9.1.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FastWorkbench-1.21.1-9.1.3.jar",
+      "sha1": "7343b63ded70c0546811c768118d16d3a86418ee"
     },
     {
       "name": "ferritecore-7.0.3-neoforge",
@@ -1556,6 +1106,18 @@
       "fileName": "flickerfix-1.21.1-6.1.0.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/flickerfix-1.21.1-6.1.0.jar",
       "sha1": "3eadf069d9eeb7fb4e2295828a8aaefe6691d96d"
+    },
+    {
+      "name": "FluxNetworks-1.21.1-8.0.0",
+      "fileName": "FluxNetworks-1.21.1-8.0.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FluxNetworks-1.21.1-8.0.0.jar",
+      "sha1": "183342f454428084748f2784c8efd748664a9f9c"
+    },
+    {
+      "name": "FramedBlocks-10.5.3",
+      "fileName": "FramedBlocks-10.5.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/FramedBlocks-10.5.3.jar",
+      "sha1": "bbbd02f99ab559bc68a72e3441e821c5cf81d8f1"
     },
     {
       "name": "framework-neoforge-1.21.1-0.13.11",
@@ -1650,7 +1212,7 @@
     {
       "name": "fzzy_config-0.7.6+1.21+neoforge",
       "fileName": "fzzy_config-0.7.6+1.21+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
       "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1"
     },
     {
@@ -1666,10 +1228,40 @@
       "sha1": "9631e1e55aca8fcdc92438345794d49dddf97e5d"
     },
     {
+      "name": "GatewaysToEternity-1.21.1-5.1.0",
+      "fileName": "GatewaysToEternity-1.21.1-5.1.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/GatewaysToEternity-1.21.1-5.1.0.jar",
+      "sha1": "f91a593378209f527fe81e731ca60fe8f8da2319"
+    },
+    {
       "name": "geckolib-neoforge-1.21.1-4.8.4",
       "fileName": "geckolib-neoforge-1.21.1-4.8.4.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/geckolib-neoforge-1.21.1-4.8.4.jar",
       "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+    },
+    {
+      "name": "Glassential-renewed-1.21.1-3.4.2",
+      "fileName": "Glassential-renewed-1.21.1-3.4.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Glassential-renewed-1.21.1-3.4.2.jar",
+      "sha1": "c7875d444b85a019381b8ea36c21c9c93e112f8a"
+    },
+    {
+      "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
+      "fileName": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "sha1": "a31c3f36330f19aa538add3d727782a62c9c30ad"
+    },
+    {
+      "name": "Glodium-1.21-2.2-neoforge",
+      "fileName": "Glodium-1.21-2.2-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Glodium-1.21-2.2-neoforge.jar",
+      "sha1": "9f61a3162665ad0b37f6f268339ac98097af1a87"
+    },
+    {
+      "name": "GravitationalModulatingAdditionalUnit-1.21.1-6.4",
+      "fileName": "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+      "sha1": "244d8b57aa7d34e247f3dd09cacf647a9ba1cfab"
     },
     {
       "name": "gtbcs_spell_lib-1.5.0-1.21.1",
@@ -1714,15 +1306,57 @@
       "sha1": "a897b4ac33d0fc5a2a533d56381c272f1e49520b"
     },
     {
+      "name": "HopoBetterMineshaft-.1.21-1.21.3.-1.3.0b",
+      "fileName": "HopoBetterMineshaft-.1.21-1.21.3.-1.3.0b.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HopoBetterMineshaft-.1.21-1.21.3.-1.3.0b.jar",
+      "sha1": ""
+    },
+    {
+      "name": "HopoBetterRuinedPortals-.1.21.1-1.21.3.-1.4.4b",
+      "fileName": "HopoBetterRuinedPortals-.1.21.1-1.21.3.-1.4.4b.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HopoBetterRuinedPortals-.1.21.1-1.21.3.-1.4.4b.jar",
+      "sha1": ""
+    },
+    {
+      "name": "HopoBetterUnderwaterRuins-.1.21.1-1.21.3.-1.2.1b",
+      "fileName": "HopoBetterUnderwaterRuins-.1.21.1-1.21.3.-1.2.1b.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HopoBetterUnderwaterRuins-.1.21.1-1.21.3.-1.2.1b.jar",
+      "sha1": ""
+    },
+    {
+      "name": "HostileNeuralNetworks-1.21.1-6.3.0",
+      "fileName": "HostileNeuralNetworks-1.21.1-6.3.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/HostileNeuralNetworks-1.21.1-6.3.0.jar",
+      "sha1": "7e026e8d78bb40bc52ff0857d25ebb5b1a05714b"
+    },
+    {
+      "name": "Iceberg-1.21.1-neoforge-1.3.2",
+      "fileName": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8"
+    },
+    {
       "name": "imfast-NEOFORGE-1.0.2",
       "fileName": "imfast-NEOFORGE-1.0.2.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imfast-NEOFORGE-1.0.2.jar",
       "sha1": "2a62ae984777ef81d63adfb358608b72fedfcaf9"
     },
     {
+      "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1",
+      "fileName": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+      "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+    },
+    {
+      "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1",
+      "fileName": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar",
+      "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d"
+    },
+    {
       "name": "immersive_aircraft-1.4.3+1.21.1-neoforge",
       "fileName": "immersive_aircraft-1.4.3+1.21.1-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/immersive_aircraft-1.4.3+1.21.1-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/immersive_aircraft-1.4.3%2B1.21.1-neoforge.jar",
       "sha1": "ba66e5fa04484bd95a1002b03f44da41ebe27f23"
     },
     {
@@ -1734,7 +1368,7 @@
     {
       "name": "industrialization_overdrive-1.11.1+1.21.1",
       "fileName": "industrialization_overdrive-1.11.1+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/industrialization_overdrive-1.11.1+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/industrialization_overdrive-1.11.1%2B1.21.1.jar",
       "sha1": "c8cceb3aff9c39375b11baf7a1628501384cfafc"
     },
     {
@@ -1774,9 +1408,15 @@
       "sha1": "f37a1afbb03443f4bc385ec5ac5bb31daf5d054b"
     },
     {
+      "name": "InventoryProfilesNext-neoforge-1.21.1-2.2.5",
+      "fileName": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "sha1": "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc"
+    },
+    {
       "name": "iris-neoforge-1.8.12+mc1.21.1",
       "fileName": "iris-neoforge-1.8.12+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
       "sha1": "a3e6355915c7d3b2bc392724795113e51d289378"
     },
     {
@@ -1828,21 +1468,33 @@
       "sha1": "0481395c5847e2920d1425e77833bef87df63139"
     },
     {
+      "name": "Jade-1.21.1-NeoForge-15.10.5",
+      "fileName": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50"
+    },
+    {
+      "name": "JadeAddons-1.21.1-NeoForge-6.1.0",
+      "fileName": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "sha1": "d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3"
+    },
+    {
       "name": "jamd-neo-21.1.1+mc1.21.1",
       "fileName": "jamd-neo-21.1.1+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/jamd-neo-21.1.1+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/jamd-neo-21.1.1%2Bmc1.21.1.jar",
       "sha1": "92a6f57ba1e0b529adb720391b4991956371ca0c"
     },
     {
       "name": "jamlib-neoforge-1.3.6+1.21.1",
       "fileName": "jamlib-neoforge-1.3.6+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/jamlib-neoforge-1.3.6+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/jamlib-neoforge-1.3.6%2B1.21.1.jar",
       "sha1": "0e422dd29b3f82eaf2a450a0370ace82b8d00f82"
     },
     {
       "name": "javd-neo-9.0.0+mc1.21.1",
       "fileName": "javd-neo-9.0.0+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/javd-neo-9.0.0+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/javd-neo-9.0.0%2Bmc1.21.1.jar",
       "sha1": "8347a4006685c6b108f89fc026777fdf498e46e7"
     },
     {
@@ -1886,6 +1538,12 @@
       "fileName": "justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar",
       "sha1": "4f47678f57e2cadebd42484897bf5417d7fa344a"
+    },
+    {
+      "name": "JustEnoughMekanismMultiblocks-1.21.1-7.15",
+      "fileName": "JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
+      "sha1": "160c5d10059c5f98bac91f46ef9cc287fa12a964"
     },
     {
       "name": "keybindbundles-1.4.0",
@@ -1932,7 +1590,7 @@
     {
       "name": "lambdynamiclights-4.8.8+1.21.1",
       "fileName": "lambdynamiclights-4.8.8+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lambdynamiclights-4.8.8+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lambdynamiclights-4.8.8%2B1.21.1.jar",
       "sha1": "d0ab30eebffdb999c07964c5775b199792b5cf46"
     },
     {
@@ -1946,6 +1604,12 @@
       "fileName": "leaderboards-1.21.1-NeoForge-2.0.3.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/leaderboards-1.21.1-NeoForge-2.0.3.jar",
       "sha1": "388d100796018032ad3cd7f5e011dc0d57d619ff"
+    },
+    {
+      "name": "LegendaryTooltips-1.21.1-neoforge-1.5.5",
+      "fileName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b"
     },
     {
       "name": "letsdo-API-forge-1.3.0-beta-release-forge",
@@ -1998,7 +1662,7 @@
     {
       "name": "lighty-neoforge-3.0.0-beta.8+1.21.1",
       "fileName": "lighty-neoforge-3.0.0-beta.8+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lighty-neoforge-3.0.0-beta.8+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lighty-neoforge-3.0.0-beta.8%2B1.21.1.jar",
       "sha1": "4335cc626d264a3eef08e6b7eb19bf579166c244"
     },
     {
@@ -2022,20 +1686,14 @@
     {
       "name": "lmft-1.1.1+1.21.9-neoforge",
       "fileName": "lmft-1.1.1+1.21.9-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lmft-1.1.1+1.21.9-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lmft-1.1.1%2B1.21.9-neoforge.jar",
       "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770"
     },
     {
-      "name": "lootintegration_townsandtowers-1.3",
-      "fileName": "lootintegration_townsandtowers-1.3.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lootintegration_townsandtowers-1.3.jar",
-      "sha1": "fbefe5dcc95829b38927d552f2948a40fdc43afa"
-    },
-    {
-      "name": "lootintegration_wda-1.8",
-      "fileName": "lootintegration_wda-1.8.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lootintegration_wda-1.8.jar",
-      "sha1": "d5b8cd7712e9c6db2202b77e3ce3c115640b8395"
+      "name": "Loot.Beams.Refork-neoforge-1.21.1-3.4.5",
+      "fileName": "Loot.Beams.Refork-neoforge-1.21.1-3.4.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Loot.Beams.Refork-neoforge-1.21.1-3.4.5.jar",
+      "sha1": ""
     },
     {
       "name": "lootintegrations-1.21.1-4.7",
@@ -2074,6 +1732,18 @@
       "sha1": "9487c23169689396e3a79613953d4af341c37bd0"
     },
     {
+      "name": "lootintegration_townsandtowers-1.3",
+      "fileName": "lootintegration_townsandtowers-1.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lootintegration_townsandtowers-1.3.jar",
+      "sha1": "fbefe5dcc95829b38927d552f2948a40fdc43afa"
+    },
+    {
+      "name": "lootintegration_wda-1.8",
+      "fileName": "lootintegration_wda-1.8.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lootintegration_wda-1.8.jar",
+      "sha1": "d5b8cd7712e9c6db2202b77e3ce3c115640b8395"
+    },
+    {
       "name": "lootjs-neoforge-1.21.1-3.7.0",
       "fileName": "lootjs-neoforge-1.21.1-3.7.0.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/lootjs-neoforge-1.21.1-3.7.0.jar",
@@ -2090,6 +1760,12 @@
       "fileName": "luminax-1.3.1_neoforge_1.21.1.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/luminax-1.3.1_neoforge_1.21.1.jar",
       "sha1": "8ec996b9783d05d4c107a3ea727ff9c7d52ce452"
+    },
+    {
+      "name": "L_Ender.s.Cataclysm.1.21.1-3.28",
+      "fileName": "L_Ender.s.Cataclysm.1.21.1-3.28.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/L_Ender.s.Cataclysm.1.21.1-3.28.jar",
+      "sha1": ""
     },
     {
       "name": "mcjtylib-1.21-9.0.20",
@@ -2164,6 +1840,12 @@
       "sha1": "1f8b59e31f889f53b6296b42ee09d447e7e56620"
     },
     {
+      "name": "Measurements-neoforge-1.21.1-3.0.3",
+      "fileName": "Measurements-neoforge-1.21.1-3.0.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Measurements-neoforge-1.21.1-3.0.3.jar",
+      "sha1": "4c415df21ffe02b6619c204b84d20dbe94b5f3b1"
+    },
+    {
       "name": "mechtrowel-1.3.2",
       "fileName": "mechtrowel-1.3.2.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mechtrowel-1.3.2.jar",
@@ -2188,6 +1870,36 @@
       "sha1": "5ae42c638c56fd0f29437c26a1be5faa76f3b172"
     },
     {
+      "name": "Mekanism-1.21.1-10.7.19.85",
+      "fileName": "Mekanism-1.21.1-10.7.19.85.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Mekanism-1.21.1-10.7.19.85.jar",
+      "sha1": "b78945c40cfe7640408f3fd1e44da385a8c8b805"
+    },
+    {
+      "name": "mekanismcurios-1.21.1-1.2.1",
+      "fileName": "mekanismcurios-1.21.1-1.2.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mekanismcurios-1.21.1-1.2.1.jar",
+      "sha1": "652371b8622d60d8d4d9528493095beb0c903aa8"
+    },
+    {
+      "name": "MekanismGenerators-1.21.1-10.7.19.85",
+      "fileName": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "sha1": "44c4d8006597580ff7e4101b5a22f7b426cdcaf6"
+    },
+    {
+      "name": "MekanismTools-1.21.1-10.7.19.85",
+      "fileName": "MekanismTools-1.21.1-10.7.19.85.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MekanismTools-1.21.1-10.7.19.85.jar",
+      "sha1": "4433b3eec0a5a0bf415d873e710a1cecea5850bc"
+    },
+    {
+      "name": "MekanismWeapons-1.21.1-3.0",
+      "fileName": "MekanismWeapons-1.21.1-3.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MekanismWeapons-1.21.1-3.0.jar",
+      "sha1": "9c10bf556be435595c47ea8873afeaa5485aecab"
+    },
+    {
       "name": "mekanism_extras-1.21.1-1.4.0",
       "fileName": "mekanism_extras-1.21.1-1.4.0.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mekanism_extras-1.21.1-1.4.0.jar",
@@ -2198,12 +1910,6 @@
       "fileName": "mekanism_unleashed-0.3.4.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mekanism_unleashed-0.3.4.jar",
       "sha1": "713c70fefebf78631dd39edbfa0f838928911c60"
-    },
-    {
-      "name": "mekanismcurios-1.21.1-1.2.1",
-      "fileName": "mekanismcurios-1.21.1-1.2.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mekanismcurios-1.21.1-1.2.1.jar",
-      "sha1": "652371b8622d60d8d4d9528493095beb0c903aa8"
     },
     {
       "name": "mekanisticrouters-1.2.0",
@@ -2236,12 +1942,6 @@
       "sha1": "70a4b871c9216e84dddd551ef8d8c8ed69842c3e"
     },
     {
-      "name": "mi_sound_addon-1.2.0-1.21.1",
-      "fileName": "mi_sound_addon-1.2.0-1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mi_sound_addon-1.2.0-1.21.1.jar",
-      "sha1": "66f6c30dbe11bfa71918ea23e032196cabfe5f67"
-    },
-    {
       "name": "mifa-neoforge-1.21.x-2.1.0",
       "fileName": "mifa-neoforge-1.21.x-2.1.0.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mifa-neoforge-1.21.x-2.1.0.jar",
@@ -2254,15 +1954,33 @@
       "sha1": "3c0279d46a802cbbdb7c259691ae7254fe9e8183"
     },
     {
+      "name": "mi_sound_addon-1.2.0-1.21.1",
+      "fileName": "mi_sound_addon-1.2.0-1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mi_sound_addon-1.2.0-1.21.1.jar",
+      "sha1": "66f6c30dbe11bfa71918ea23e032196cabfe5f67"
+    },
+    {
       "name": "mob_grinding_utils-1.1.10+mc1.21.1",
       "fileName": "mob_grinding_utils-1.1.10+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mob_grinding_utils-1.1.10+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mob_grinding_utils-1.1.10%2Bmc1.21.1.jar",
       "sha1": "3dffde016ec61eb3961453e7142c85d11a4f4127"
+    },
+    {
+      "name": "Modern-Dynamics-0.9.6",
+      "fileName": "Modern-Dynamics-0.9.6.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Modern-Dynamics-0.9.6.jar",
+      "sha1": "3f206d55dc002f217a2a4e5b1cce9327fd67bfa6"
+    },
+    {
+      "name": "Modern-Industrialization-2.4.3",
+      "fileName": "Modern-Industrialization-2.4.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Modern-Industrialization-2.4.3.jar",
+      "sha1": "b41c4d8c02eadc09f8614c4561384b6854245ff4"
     },
     {
       "name": "modernfix-neoforge-5.27.8+mc1.21.1",
       "fileName": "modernfix-neoforge-5.27.8+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/modernfix-neoforge-5.27.8+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/modernfix-neoforge-5.27.8%2Bmc1.21.1.jar",
       "sha1": "2fbce2437be5a2ac69aa093a388ca43f44245237"
     },
     {
@@ -2280,7 +1998,7 @@
     {
       "name": "modlistmemory-neoforge-1.0.0+1.21+bm-1.1.15",
       "fileName": "modlistmemory-neoforge-1.0.0+1.21+bm-1.1.15.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/modlistmemory-neoforge-1.0.0+1.21+bm-1.1.15.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/modlistmemory-neoforge-1.0.0%2B1.21%2Bbm-1.1.15.jar",
       "sha1": "7a29ac8aa2c6be0e8426be729a47169d2c98cc04"
     },
     {
@@ -2292,7 +2010,7 @@
     {
       "name": "modular-routers-13.2.4+mc1.21.1",
       "fileName": "modular-routers-13.2.4+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/modular-routers-13.2.4+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/modular-routers-13.2.4%2Bmc1.21.1.jar",
       "sha1": "f4d535579462dc6436e4896daac4d2dd4ce8e428"
     },
     {
@@ -2306,12 +2024,6 @@
       "fileName": "moonlight-neoforge-1.21.1-3.0.13.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/moonlight-neoforge-1.21.1-3.0.13.jar",
       "sha1": "71776d37deb6dadfad08d4a35766b803b6a01cb9"
-    },
-    {
-      "name": "more_sounds-1.21.x-0.3.0-beta",
-      "fileName": "more_sounds-1.21.x-0.3.0-beta.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/more_sounds-1.21.x-0.3.0-beta.jar",
-      "sha1": "e2b6dd9efb491f54a1fa38002457b53e43f9dd8c"
     },
     {
       "name": "moredelight-26.05.20a-1.21-neoforge",
@@ -2332,9 +2044,15 @@
       "sha1": "b108911a3cbcba85b93d7afd58afb01da40b0303"
     },
     {
+      "name": "MoreMekanismProcessing-1.21.1-6.8",
+      "fileName": "MoreMekanismProcessing-1.21.1-6.8.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MoreMekanismProcessing-1.21.1-6.8.jar",
+      "sha1": "f4dbb8c2307f3ff6ca31229068ea0243659a5c7e"
+    },
+    {
       "name": "moremousetweaks-neoforge-1.1.1+1.21.1",
       "fileName": "moremousetweaks-neoforge-1.1.1+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/moremousetweaks-neoforge-1.1.1+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/moremousetweaks-neoforge-1.1.1%2B1.21.1.jar",
       "sha1": "ab687b106106d9d41e05625ca3776a7760fcb75c"
     },
     {
@@ -2344,10 +2062,46 @@
       "sha1": "a69f18365301470c0fc2b07125c9ba3c10f270f6"
     },
     {
+      "name": "MoreRed-CCT-Compat-1.21.1-1.3.0",
+      "fileName": "MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
+      "sha1": "534c64c86798ca691f0565bbf3fe09c9795a12df"
+    },
+    {
+      "name": "MoreTotems-neoforge-1.21-2.20.3",
+      "fileName": "MoreTotems-neoforge-1.21-2.20.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MoreTotems-neoforge-1.21-2.20.3.jar",
+      "sha1": "53dc2f5ffafe2f0b4398379a7d48a7083e2e223b"
+    },
+    {
+      "name": "more_sounds-1.21.x-0.3.0-beta",
+      "fileName": "more_sounds-1.21.x-0.3.0-beta.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/more_sounds-1.21.x-0.3.0-beta.jar",
+      "sha1": "e2b6dd9efb491f54a1fa38002457b53e43f9dd8c"
+    },
+    {
+      "name": "MouseTweaks-neoforge-mc1.21-2.26.1",
+      "fileName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+    },
+    {
       "name": "mru-1.0.19+LTS+1.21.1+neoforge",
       "fileName": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
       "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc"
+    },
+    {
+      "name": "NaNny-1.21.1-1.0.1",
+      "fileName": "NaNny-1.21.1-1.0.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/NaNny-1.21.1-1.0.1.jar",
+      "sha1": "d0f2905bb2bc9a404531d63042e3eb5091ec105f"
+    },
+    {
+      "name": "NaturesCompass-1.21.1-3.4.0-neoforge",
+      "fileName": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95"
     },
     {
       "name": "netherportalfix-neoforge-1.21.1-21.1.1",
@@ -2356,9 +2110,15 @@
       "sha1": "7cf40ec774392823e709da7659a6d4a5a04c8c9d"
     },
     {
+      "name": "Nirvana.Lib-neoforge-1.21.1-2.2.0",
+      "fileName": "Nirvana.Lib-neoforge-1.21.1-2.2.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Nirvana.Lib-neoforge-1.21.1-2.2.0.jar",
+      "sha1": ""
+    },
+    {
       "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1",
       "fileName": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar",
       "sha1": "1bea6b61378ba80f038256c4345d9ff3b67928c4"
     },
     {
@@ -2368,16 +2128,22 @@
       "sha1": "7074fda15f70440eb1e30f74a7dc70feadd49592"
     },
     {
-      "name": "not_enough_glyphs-1.21.1-4.4.0",
-      "fileName": "not_enough_glyphs-1.21.1-4.4.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/not_enough_glyphs-1.21.1-4.4.0.jar",
-      "sha1": "ab184795e98b8d2eb35d0135d87ce44bd2000111"
+      "name": "Not.Enough.Recipe.Book-NEOFORGE-0.4.3+1.21",
+      "fileName": "Not.Enough.Recipe.Book-NEOFORGE-0.4.3+1.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Not.Enough.Recipe.Book-NEOFORGE-0.4.3%2B1.21.jar",
+      "sha1": ""
     },
     {
       "name": "notenoughanimations-neoforge-1.12.3-mc1.21.1",
       "fileName": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
       "sha1": "52c76391aea709441089b12dbf3664b848b686d7"
+    },
+    {
+      "name": "not_enough_glyphs-1.21.1-4.4.0",
+      "fileName": "not_enough_glyphs-1.21.1-4.4.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/not_enough_glyphs-1.21.1-4.4.0.jar",
+      "sha1": "ab184795e98b8d2eb35d0135d87ce44bd2000111"
     },
     {
       "name": "observable-5.4.4",
@@ -2388,7 +2154,7 @@
     {
       "name": "obsidianboat-neo-21.1.2+mc1.21.1",
       "fileName": "obsidianboat-neo-21.1.2+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/obsidianboat-neo-21.1.2+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/obsidianboat-neo-21.1.2%2Bmc1.21.1.jar",
       "sha1": "631062fb6e7adaf76ed8ac8bb2c0dc8213160bab"
     },
     {
@@ -2410,6 +2176,30 @@
       "sha1": "2246edd8fc1bbf60422f5099854c1de0b2a439c9"
     },
     {
+      "name": "OctoLib-NEOFORGE-0.6.2+1.21",
+      "fileName": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
+    },
+    {
+      "name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5",
+      "fileName": "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
+      "sha1": "b7d028def9c15698dff076e1c606d4496f0a2730"
+    },
+    {
+      "name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2",
+      "fileName": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "sha1": "1867792e4e3d9fc6bb7acabb31cbec7a3d49ecad"
+    },
+    {
+      "name": "OpenLoader-neoforge-1.21.1-21.1.5",
+      "fileName": "OpenLoader-neoforge-1.21.1-21.1.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/OpenLoader-neoforge-1.21.1-21.1.5.jar",
+      "sha1": "b4b49fa0bbefcecd41aaba60aca38c3658ac2c46"
+    },
+    {
       "name": "overloadedarmorbar-neoforge-1.21-2",
       "fileName": "overloadedarmorbar-neoforge-1.21-2.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/overloadedarmorbar-neoforge-1.21-2.jar",
@@ -2428,16 +2218,28 @@
       "sha1": "bea4366e3e92aed305958940b56976d56ce4f329"
     },
     {
+      "name": "Patchouli-1.21.1-93-NEOFORGE",
+      "fileName": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
+    },
+    {
+      "name": "Perception-NEOFORGE-0.2.1+1.21.1",
+      "fileName": "Perception-NEOFORGE-0.2.1+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Perception-NEOFORGE-0.2.1%2B1.21.1.jar",
+      "sha1": "ea6d1403c8bc5cdda2727c1a90b29284c0ed653a"
+    },
+    {
       "name": "phantoms_utilities-0.3.1",
       "fileName": "phantoms_utilities-0.3.1.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/phantoms_utilities-0.3.1.jar",
       "sha1": "d6cc61eb36428c95717bf1a120258ac347cc0dd5"
     },
     {
-      "name": "pipe_connector-neoforge-0.5.28",
-      "fileName": "pipe_connector-neoforge-0.5.28.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/pipe_connector-neoforge-0.5.28.jar",
-      "sha1": "e91d882251d8ef1a456c10fde0a41d829125e395"
+      "name": "PingHUD-4.0",
+      "fileName": "PingHUD-4.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/PingHUD-4.0.jar",
+      "sha1": "6f1b2a4a11440d07529957df80a525606cc8f2f5"
     },
     {
       "name": "pipez-neoforge-1.21.1-1.2.19",
@@ -2446,9 +2248,21 @@
       "sha1": "760c1cd20e6e47ef86bd48ece413873cccddc972"
     },
     {
+      "name": "pipe_connector-neoforge-0.5.28",
+      "fileName": "pipe_connector-neoforge-0.5.28.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/pipe_connector-neoforge-0.5.28.jar",
+      "sha1": "e91d882251d8ef1a456c10fde0a41d829125e395"
+    },
+    {
+      "name": "Placebo-1.21.1-9.9.1",
+      "fileName": "Placebo-1.21.1-9.9.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Placebo-1.21.1-9.9.1.jar",
+      "sha1": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
+    },
+    {
       "name": "player-animation-lib-forge-2.0.4+1.21.1",
       "fileName": "player-animation-lib-forge-2.0.4+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
       "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
     },
     {
@@ -2460,7 +2274,7 @@
     {
       "name": "pneumaticcraft-repressurized-8.2.20+mc1.21.1",
       "fileName": "pneumaticcraft-repressurized-8.2.20+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/pneumaticcraft-repressurized-8.2.20+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/pneumaticcraft-repressurized-8.2.20%2Bmc1.21.1.jar",
       "sha1": "19b3bdb7f2aa135b1d638ba2195968c443889ce5"
     },
     {
@@ -2470,10 +2284,22 @@
       "sha1": "2e77cd8a795c3171d8327e6b1f1b6413565c8da1"
     },
     {
+      "name": "Powah-6.2.10",
+      "fileName": "Powah-6.2.10.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Powah-6.2.10.jar",
+      "sha1": "f134ab3e0ace3793abf93129e318eb817898a4e1"
+    },
+    {
       "name": "prickle-neoforge-1.21.1-21.1.11",
       "fileName": "prickle-neoforge-1.21.1-21.1.11.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/prickle-neoforge-1.21.1-21.1.11.jar",
       "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36"
+    },
+    {
+      "name": "Prism-1.21.1-neoforge-1.0.11",
+      "fileName": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f"
     },
     {
       "name": "pufferfish_unofficial_additions-1.21.1-2.2.8",
@@ -2572,16 +2398,22 @@
       "sha1": "b1cc9ded8832c63b1320702ec5bf0a1e35e2a29f"
     },
     {
-      "name": "rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1",
-      "fileName": "rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1.jar",
-      "sha1": "1e283931ab2401d09a9f114f791d63b684e14e8f"
-    },
-    {
       "name": "repeatable_trial_vaults-neoforge-1.21-1.0.3",
       "fileName": "repeatable_trial_vaults-neoforge-1.21-1.0.3.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/repeatable_trial_vaults-neoforge-1.21-1.0.3.jar",
       "sha1": "8bee28857eef39ca7b9c101ecbe361d52c46c308"
+    },
+    {
+      "name": "Replication-1.21.1-1.2.7",
+      "fileName": "Replication-1.21.1-1.2.7.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Replication-1.21.1-1.2.7.jar",
+      "sha1": "bb433ec94394e960ba26fc2e7fd5537fcb7fbe50"
+    },
+    {
+      "name": "rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1",
+      "fileName": "rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1.jar",
+      "sha1": "1e283931ab2401d09a9f114f791d63b684e14e8f"
     },
     {
       "name": "resourcefulconfig-neoforge-1.21-3.0.11",
@@ -2598,7 +2430,7 @@
     {
       "name": "revelationary-neoforge-1.4.2+1.21.1",
       "fileName": "revelationary-neoforge-1.4.2+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/revelationary-neoforge-1.4.2+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/revelationary-neoforge-1.4.2%2B1.21.1.jar",
       "sha1": "76064576f092fc6e9f763b5191ea8db2be883f6d"
     },
     {
@@ -2626,6 +2458,12 @@
       "sha1": "5dcc80079095706645d567353095297948a41eea"
     },
     {
+      "name": "Ribbits-1.21.1-NeoForge-4.1.6",
+      "fileName": "Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "sha1": "22dfd6a52d31bcab58b93c2d4a637ae1b2a01895"
+    },
+    {
       "name": "rubinated_nether-2.0.1b",
       "fileName": "rubinated_nether-2.0.1b.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/rubinated_nether-2.0.1b.jar",
@@ -2644,9 +2482,15 @@
       "sha1": "b12a71762fbff41bb2cabdf9755132652e6d07cd"
     },
     {
+      "name": "Searchables-neoforge-1.21.1-1.0.2",
+      "fileName": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    {
       "name": "seasonal_lets_do-neoforge-1.5.0+1.21",
       "fileName": "seasonal_lets_do-neoforge-1.5.0+1.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/seasonal_lets_do-neoforge-1.5.0+1.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/seasonal_lets_do-neoforge-1.5.0%2B1.21.jar",
       "sha1": "d493b8b8b3a7e5805ed43bdb5d4eb5befc0f9853"
     },
     {
@@ -2654,6 +2498,18 @@
       "fileName": "seasonhud-neoforge-1.21.1-2.0.6.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/seasonhud-neoforge-1.21.1-2.0.6.jar",
       "sha1": "57455390641d8dcf4566ff266676390c203894cf"
+    },
+    {
+      "name": "SereneSeasons-neoforge-1.21.1-10.1.0.3",
+      "fileName": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "sha1": "8b9034d4c43f880b1f1ebdd3943219de0b0bc4c5"
+    },
+    {
+      "name": "Serverstarted-neoforge-1.21-1.0",
+      "fileName": "Serverstarted-neoforge-1.21-1.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Serverstarted-neoforge-1.21-1.0.jar",
+      "sha1": "f81480e1e058d64a9ccedf888490c889d7f18042"
     },
     {
       "name": "showcaseitem-1.21.1-1.1.0",
@@ -2668,10 +2524,10 @@
       "sha1": "17407b525c0c70a0f6f03a08024a14058f645d01"
     },
     {
-      "name": "simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge",
-      "fileName": "simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge.jar",
-      "sha1": "f2d4571a78cb109d211efc8c1dafef6116e7f583"
+      "name": "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1",
+      "fileName": "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SimpleDiscordRichPresence-neoforge-88.0.1-build.54%2Bmc1.21.1.jar",
+      "sha1": "3bcccf27fb2f954a81a3984bcb1ee8ea636d7247"
     },
     {
       "name": "simplemagnets-1.1.12c-neoforge-mc1.21",
@@ -2680,9 +2536,21 @@
       "sha1": "abba7efcee3ae31bd3512147053279422e866ebf"
     },
     {
+      "name": "SimplePocketMachines-NeoForge-1.21.1-1.0.4",
+      "fileName": "SimplePocketMachines-NeoForge-1.21.1-1.0.4.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SimplePocketMachines-NeoForge-1.21.1-1.0.4.jar",
+      "sha1": "8167b804b981b213a0048d7a1575c7da41823c4b"
+    },
+    {
+      "name": "simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge",
+      "fileName": "simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge.jar",
+      "sha1": "f2d4571a78cb109d211efc8c1dafef6116e7f583"
+    },
+    {
       "name": "simplylight-1.5.3+1.21.1-b4",
       "fileName": "simplylight-1.5.3+1.21.1-b4.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/simplylight-1.5.3+1.21.1-b4.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/simplylight-1.5.3%2B1.21.1-b4.jar",
       "sha1": "d85bfed3824cb66d258acf11c73edaf11d583223"
     },
     {
@@ -2690,6 +2558,12 @@
       "fileName": "smallhorsestable-1.2.0-neoforge-1.21.1.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/smallhorsestable-1.2.0-neoforge-1.21.1.jar",
       "sha1": "7e76295dba808a569e4128269c4cc44bcd31396f"
+    },
+    {
+      "name": "SmartBrainLib-neoforge-1.21.1-1.16.11",
+      "fileName": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836"
     },
     {
       "name": "smithingtemplateviewer-1.0.4",
@@ -2742,7 +2616,7 @@
     {
       "name": "sounds-2.4.22+lts+1.21.1-neoforge",
       "fileName": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
       "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a"
     },
     {
@@ -2778,8 +2652,32 @@
     {
       "name": "storagedelight-26.04.18a+1.21-neoforge",
       "fileName": "storagedelight-26.04.18a+1.21-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/storagedelight-26.04.18a+1.21-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/storagedelight-26.04.18a%2B1.21-neoforge.jar",
       "sha1": "90e93bec0d9bcee0ba745c51acc47cd152fdb9ef"
+    },
+    {
+      "name": "Structory_26.1_v1.3.16",
+      "fileName": "Structory_26.1_v1.3.16.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Structory_26.1_v1.3.16.jar",
+      "sha1": "ee48f145a3a09fdb3f492576cbc21ed26abc74bb"
+    },
+    {
+      "name": "Structory_Towers_26.1_v1.0.16",
+      "fileName": "Structory_Towers_26.1_v1.0.16.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Structory_Towers_26.1_v1.0.16.jar",
+      "sha1": "ed22fe659cb3020f2e86b7619ce721714b9546be"
+    },
+    {
+      "name": "SubtleEffects-neoforge-1.21.1-1.14.3",
+      "fileName": "SubtleEffects-neoforge-1.21.1-1.14.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
+      "sha1": "f0c846484bd7c769b88f38ab31429457f52552d7"
+    },
+    {
+      "name": "Super.Factory.Manager.SFM.-MC1.21.1-4.32.0",
+      "fileName": "Super.Factory.Manager.SFM.-MC1.21.1-4.32.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Super.Factory.Manager.SFM.-MC1.21.1-4.32.0.jar",
+      "sha1": ""
     },
     {
       "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21",
@@ -2812,15 +2710,9 @@
       "sha1": "c7c838abeb62f6dc6b1c22336f2a96c592bc5948"
     },
     {
-      "name": "t_and_t-neoforge-fabric-1.13.2",
-      "fileName": "t_and_t-neoforge-fabric-1.13.2.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/t_and_t-neoforge-fabric-1.13.2.jar",
-      "sha1": "7e7d4e24a2d0ad3d85de430d2b15ff3e525322cf"
-    },
-    {
       "name": "tankstorage-1.1.1+1.21",
       "fileName": "tankstorage-1.1.1+1.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/tankstorage-1.1.1+1.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/tankstorage-1.1.1%2B1.21.jar",
       "sha1": "ca83525e78f37f4cac29fa7878a7aabf799b1625"
     },
     {
@@ -2834,6 +2726,12 @@
       "fileName": "tempad-1.21.1-3.0.4-all.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/tempad-1.21.1-3.0.4-all.jar",
       "sha1": "7a4d6837c6f7a4c9a8f4e7054952df25c148033e"
+    },
+    {
+      "name": "TerraBlender-neoforge-1.21.1-4.1.0.8",
+      "fileName": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191"
     },
     {
       "name": "tesseract-1.0.38-neoforge-mc1.21",
@@ -2856,20 +2754,20 @@
     {
       "name": "thaumon-neoforge-2.3.0+1.21",
       "fileName": "thaumon-neoforge-2.3.0+1.21.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/thaumon-neoforge-2.3.0+1.21.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/thaumon-neoforge-2.3.0%2B1.21.jar",
       "sha1": "8a1a3508b88e78cc427333db9973f9837d5f7437"
-    },
-    {
-      "name": "the_bumblezone-7.13.2+1.21.1-neoforge",
-      "fileName": "the_bumblezone-7.13.2+1.21.1-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/the_bumblezone-7.13.2+1.21.1-neoforge.jar",
-      "sha1": "821517b21a003afaea2ed39e6c1172fa19637f37"
     },
     {
       "name": "theurgy-1.21.1-neoforge-1.73.1",
       "fileName": "theurgy-1.21.1-neoforge-1.73.1.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/theurgy-1.21.1-neoforge-1.73.1.jar",
       "sha1": "8ce405ecd5e98c3e6b7d8aed2746e04c7e4d7b67"
+    },
+    {
+      "name": "the_bumblezone-7.13.2+1.21.1-neoforge",
+      "fileName": "the_bumblezone-7.13.2+1.21.1-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/the_bumblezone-7.13.2%2B1.21.1-neoforge.jar",
+      "sha1": "821517b21a003afaea2ed39e6c1172fa19637f37"
     },
     {
       "name": "titanium-1.21-4.0.43",
@@ -2880,7 +2778,7 @@
     {
       "name": "toomanyrecipeviewers-0.7.3+mc.21.1",
       "fileName": "toomanyrecipeviewers-0.7.3+mc.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/toomanyrecipeviewers-0.7.3+mc.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/toomanyrecipeviewers-0.7.3%2Bmc.21.1.jar",
       "sha1": "266605572d63d834b99e930e477ee01b0b7082df"
     },
     {
@@ -2904,7 +2802,7 @@
     {
       "name": "transmog-neoforge-1.6.0+1.21.1",
       "fileName": "transmog-neoforge-1.6.0+1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/transmog-neoforge-1.6.0+1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/transmog-neoforge-1.6.0%2B1.21.1.jar",
       "sha1": "fb37ae0a35e8bb9340e61007275121f02cf7a8bc"
     },
     {
@@ -2920,9 +2818,15 @@
       "sha1": "ee869412c35848757ced95b1ac84f4c132ebbe7b"
     },
     {
+      "name": "TravelersTitles-1.21.1-NeoForge-5.1.3",
+      "fileName": "TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "sha1": "166cba4d367c6dd103d1d5dcab7a31174bec799e"
+    },
+    {
       "name": "trenzalore-neo-6.1.1+mc1.21.1",
       "fileName": "trenzalore-neo-6.1.1+mc1.21.1.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/trenzalore-neo-6.1.1+mc1.21.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/trenzalore-neo-6.1.1%2Bmc1.21.1.jar",
       "sha1": "ae392e6fca98dbce07c3b8a6805b6095fb164b87"
     },
     {
@@ -2942,6 +2846,18 @@
       "fileName": "twilightforest-1.21.1-4.8.3345-universal.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/twilightforest-1.21.1-4.8.3345-universal.jar",
       "sha1": "9cfd4154928433e2f1f6cfc3deb48c284debb580"
+    },
+    {
+      "name": "TwilightTreehouses-1.0.2-1.21.1-neoforge",
+      "fileName": "TwilightTreehouses-1.0.2-1.21.1-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/TwilightTreehouses-1.0.2-1.21.1-neoforge.jar",
+      "sha1": "723a03a67f81dd42aa2e9a07b1ff665d18d80421"
+    },
+    {
+      "name": "t_and_t-neoforge-fabric-1.13.2",
+      "fileName": "t_and_t-neoforge-fabric-1.13.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/t_and_t-neoforge-fabric-1.13.2.jar",
+      "sha1": "7e7d4e24a2d0ad3d85de430d2b15ff3e525322cf"
     },
     {
       "name": "usefulhats-neoforge-1.21.1-6.5.3.0",
@@ -2974,9 +2890,15 @@
       "sha1": "488bc70db3730f209e65cbda04c36dbc3918c448"
     },
     {
+      "name": "WitherSkeletonTweaks-1.21.1-10.1.1",
+      "fileName": "WitherSkeletonTweaks-1.21.1-10.1.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/WitherSkeletonTweaks-1.21.1-10.1.1.jar",
+      "sha1": "eda07efc2f5e47492abe205295b182c219c6199f"
+    },
+    {
       "name": "wits-1.3.0+1.21-neoforge",
       "fileName": "wits-1.3.0+1.21-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/wits-1.3.0+1.21-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/wits-1.3.0%2B1.21-neoforge.jar",
       "sha1": "4fb6e087325c70031fdb7fe6eb5278c5038511dd"
     },
     {
@@ -3030,7 +2952,7 @@
     {
       "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge",
       "fileName": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
       "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb"
     },
     {
@@ -3044,6 +2966,84 @@
       "fileName": "yukamibackpacktab-1.21.1-1.1.1-neoforge.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/yukamibackpacktab-1.21.1-1.1.1-neoforge.jar",
       "sha1": "be72834b8fa504ac02d970c423fbc01b95861d76"
+    },
+    {
+      "name": "YungsApi-1.21.1-NeoForge-5.1.6",
+      "fileName": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b"
+    },
+    {
+      "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5",
+      "fileName": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "sha1": "90529257dbd92558998c65178294bc7b2fd16a64"
+    },
+    {
+      "name": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4",
+      "fileName": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4"
+    },
+    {
+      "name": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2",
+      "fileName": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19"
+    },
+    {
+      "name": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2",
+      "fileName": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8"
+    },
+    {
+      "name": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1",
+      "fileName": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "6a14e1d8201f068ca87ef8333e471c5378955906"
+    },
+    {
+      "name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5",
+      "fileName": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "sha1": "4061ece2141475227646649046fc14c2da505922"
+    },
+    {
+      "name": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2",
+      "fileName": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha1": "fba629defdb92ad99ec4f411895afb6e19555a18"
+    },
+    {
+      "name": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3",
+      "fileName": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "sha1": "5d06a5850af7c577612d4592706a8e156bbe1cbf"
+    },
+    {
+      "name": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1",
+      "fileName": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "sha1": "bbf6c91f4a2829c58bc024eaaab821986bc93de6"
+    },
+    {
+      "name": "YungsBridges-1.21.1-NeoForge-5.1.1",
+      "fileName": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "18099c2d54acd16bb8ab90a66f40fa16496d065e"
+    },
+    {
+      "name": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1",
+      "fileName": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04"
+    },
+    {
+      "name": "YungsExtras-1.21.1-NeoForge-5.1.1",
+      "fileName": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "62833733aaf407f36bdacf648ed4b2ef9940662b"
     },
     {
       "name": "zume-1.2.2",
