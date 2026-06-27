@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.0",
+  "modpackVersion": "1.0.1",
   "minecraft": "1.21.1",
   "neoforge": "21.1.230",
   "mods": [
@@ -3044,6 +3044,12 @@
       "fileName": "zume-1.2.2.jar",
       "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/zume-1.2.2.jar",
       "sha1": "cbd353ee0e2a35d122a758b9cbb26b2f54145f3f"
+    },
+    {
+      "name": "imperiumshop-1.0.0",
+      "fileName": "imperiumshop-1.0.0.jar",
+      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumshop-1.0.0.jar",
+      "sha1": "341fb67d3a6896449ee2acf07fb89f1a216212fb"
     }
   ]
 }
