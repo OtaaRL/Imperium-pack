@@ -3,12 +3,6 @@
   "minecraft": "1.21.1",
   "neoforge": "21.1.230",
   "mods": [
-     {
-      "name": "cinematicintro-1.0.0",
-      "fileName": "cinematicintro-1.0.0.jar",
-      "url": "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/cinematicintro-1.0.0.jar",
-      "sha1": ""
-    },
     {
       "name": "accelerated-decay-neoforge-21.0.0",
       "fileName": "accelerated-decay-neoforge-21.0.0.jar",
