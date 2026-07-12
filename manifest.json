@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.111",
+    "modpackVersion":  "1.0.112",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -3067,7 +3067,7 @@
                      "name":  "imperiumfaith-1.0.0",
                      "fileName":  "imperiumfaith-1.0.0.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumfaith-1.0.0.jar",
-                     "sha1":  "4ca5e2963a651fae63c4be4889ff1b2e9c82e103"
+                     "sha1":  "39e24c5d2494b03095b38b4358cab7c7c8c2e593"
                  }
              ]
 }
