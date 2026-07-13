@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.122",
+    "modpackVersion":  "1.0.123",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -1184,12 +1184,6 @@
                      "fileName":  "ftbquestslangsplitter-1.0.5.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ftbquestslangsplitter-1.0.5.jar",
                      "sha1":  "74652f1f845c7a31f12b50163164eba06beebbd7"
-                 },
-                 {
-                     "name":  "ftbxaerocompat-neoforge-1.1.4",
-                     "fileName":  "ftbxaerocompat-neoforge-1.1.4.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/ftbxaerocompat-neoforge-1.1.4.jar",
-                     "sha1":  "6923ae95bdde32d8b504364ea125969cc7d6cb2e"
                  },
                  {
                      "name":  "functionalstorage-1.21.1-1.5.5",
