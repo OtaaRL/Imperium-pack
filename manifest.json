@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.154",
+    "modpackVersion":  "1.0.155",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -3068,6 +3068,18 @@
                      "fileName":  "imperiumraid-1.0.0.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumraid-1.0.0.jar",
                      "sha1":  "251d77ad61793a5e02a8df65b747f559e1e219c3"
+                 },
+                 {
+                     "name":  "watermedia-3.0.0.21",
+                     "fileName":  "watermedia-3.0.0.21.jar",
+                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/watermedia-3.0.0.21.jar",
+                     "sha1":  "8807fbb93c97c482f58f935e809bebca3ffd1d6d"
+                 },
+                 {
+                     "name":  "watermedia_binaries-3.0.0-rc.4",
+                     "fileName":  "watermedia_binaries-3.0.0-rc.4.jar",
+                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/watermedia_binaries-3.0.0-rc.4.jar",
+                     "sha1":  "a84499e127c09e96f2a97843fc5d53602a333400"
                  }
              ]
 }
