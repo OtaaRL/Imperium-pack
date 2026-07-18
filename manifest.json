@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.156",
+    "modpackVersion":  "1.0.157",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -2246,12 +2246,6 @@
                      "fileName":  "Placebo-1.21.1-9.9.1.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/Placebo-1.21.1-9.9.1.jar",
                      "sha1":  "1c2b8c38066d6f36209c5dadee25c184ef65202e"
-                 },
-                 {
-                     "name":  "player-animation-lib-forge-2.0.4+1.21.1",
-                     "fileName":  "player-animation-lib-forge-2.0.4+1.21.1.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
-                     "sha1":  "05be8ddcc78532b9a5520c718edc6c971cd0057c"
                  },
                  {
                      "name":  "plushie_buddies-1.0.0-neofroge-1.21.1",
