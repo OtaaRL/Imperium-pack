@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.181",
+    "modpackVersion":  "1.0.182",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -3049,7 +3049,7 @@
                      "name":  "imperiumfactions-1.0.0",
                      "fileName":  "imperiumfactions-1.0.0.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumfactions-1.0.0.jar",
-                     "sha1":  "e27bd28cbc5373fefbbb4deda7ab98a473c5f605"
+                     "sha1":  "99c77a5b54be199ce89c208a7ddf8ef9fd23578f"
                  },
                  {
                      "name":  "imperiumraid-1.0.0",
