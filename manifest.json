@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.172",
+    "modpackVersion":  "1.0.173",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -3061,7 +3061,7 @@
                      "name":  "imperiumraid-1.0.0",
                      "fileName":  "imperiumraid-1.0.0.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumraid-1.0.0.jar",
-                     "sha1":  "e163edbf426189b2120088e2732a8ba64778f845"
+                     "sha1":  "84b7c46cbeeb1a71e109318d07613ed7b3d6b0a9"
                  },
                  {
                      "name":  "watermedia-3.0.0.21",
