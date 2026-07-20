@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.175",
+    "modpackVersion":  "1.0.176",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -608,12 +608,6 @@
                      "fileName":  "craftingtweaks-neoforge-1.21.1-21.1.10.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/craftingtweaks-neoforge-1.21.1-21.1.10.jar",
                      "sha1":  "ff4b3d9ca8e8452a7a0362153c3108634ad2297c"
-                 },
-                 {
-                     "name":  "craftoria_core-0.8.0",
-                     "fileName":  "craftoria_core-0.8.0.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/craftoria_core-0.8.0.jar",
-                     "sha1":  "a9727cbcae122d1f0076fde3a5dbe3513d5eca45"
                  },
                  {
                      "name":  "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9",
@@ -3074,6 +3068,12 @@
                      "fileName":  "watermedia_binaries-3.0.0-rc.4.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/watermedia_binaries-3.0.0-rc.4.jar",
                      "sha1":  "a84499e127c09e96f2a97843fc5d53602a333400"
+                 },
+                 {
+                     "name":  "imperiumcore-1.0.0",
+                     "fileName":  "imperiumcore-1.0.0.jar",
+                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumcore-1.0.0.jar",
+                     "sha1":  "60a8a87de73c4658fe3cdccb5169e9f40b5f0836"
                  }
              ]
 }
