@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.187",
+    "modpackVersion":  "1.0.188",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -3044,12 +3044,6 @@
                      "fileName":  "imperiumcore-1.0.0.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumcore-1.0.0.jar",
                      "sha1":  "60a8a87de73c4658fe3cdccb5169e9f40b5f0836"
-                 },
-                 {
-                     "name":  "notenoughanimations-neoforge-1.12.3-mc1.21.1",
-                     "fileName":  "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
-                     "sha1":  "52c76391aea709441089b12dbf3664b848b686d7"
                  },
                  {
                      "name":  "entity_model_features-3.2.4-1.21-neoforge",
