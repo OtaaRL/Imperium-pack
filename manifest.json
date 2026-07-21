@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.186",
+    "modpackVersion":  "1.0.187",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -818,24 +818,6 @@
                      "fileName":  "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
                      "sha1":  "ac9edb266a1360e9e4c80ed0b2f931f1505307eb"
-                 },
-                 {
-                     "name":  "easy_npc-neoforge-1.21.1-6.17.0",
-                     "fileName":  "easy_npc-neoforge-1.21.1-6.17.0.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/easy_npc-neoforge-1.21.1-6.17.0.jar",
-                     "sha1":  "64c0e62dad7368a86ff5784a9279bec3f09d7b5f"
-                 },
-                 {
-                     "name":  "easy_npc_bundle-neoforge-1.21.1-6.17.0",
-                     "fileName":  "easy_npc_bundle-neoforge-1.21.1-6.17.0.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/easy_npc_bundle-neoforge-1.21.1-6.17.0.jar",
-                     "sha1":  "9e24275cc03dad938e57629b832025642c69faa3"
-                 },
-                 {
-                     "name":  "easy_npc_config_ui-neoforge-1.21.1-6.17.0",
-                     "fileName":  "easy_npc_config_ui-neoforge-1.21.1-6.17.0.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/easy_npc_config_ui-neoforge-1.21.1-6.17.0.jar",
-                     "sha1":  "502d9ca301dcd193f6337638a246c922813df362"
                  },
                  {
                      "name":  "elevatorid-neoforge-1.21.1-1.11.4",
@@ -3074,6 +3056,24 @@
                      "fileName":  "entity_model_features-3.2.4-1.21-neoforge.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/entity_model_features-3.2.4-1.21-neoforge.jar",
                      "sha1":  "fcc0d7cfee5ace4dba159225edd151d90dd924b9"
+                 },
+                 {
+                     "name":  "easy_npc-neoforge-1.21.1-7.3.0",
+                     "fileName":  "easy_npc-neoforge-1.21.1-7.3.0.jar",
+                     "url":  "https://cdn.modrinth.com/data/Epm6R3P2/versions/djbBsk85/easy_npc-neoforge-1.21.1-7.3.0.jar",
+                     "sha1":  "0d6f254d4af5308d641d88d5abff1f693732ec6b"
+                 },
+                 {
+                     "name":  "easy_npc_bundle-neoforge-1.21.1-7.3.0",
+                     "fileName":  "easy_npc_bundle-neoforge-1.21.1-7.3.0.jar",
+                     "url":  "https://cdn.modrinth.com/data/CgGEe1h3/versions/Ap94Epol/easy_npc_bundle-neoforge-1.21.1-7.3.0.jar",
+                     "sha1":  "119fba29ad265eb777ccb4fba52d29f2db410ad6"
+                 },
+                 {
+                     "name":  "easy_npc_config_ui-neoforge-1.21.1-7.3.0",
+                     "fileName":  "easy_npc_config_ui-neoforge-1.21.1-7.3.0.jar",
+                     "url":  "https://cdn.modrinth.com/data/uTGjf7vA/versions/xF8q67E0/easy_npc_config_ui-neoforge-1.21.1-7.3.0.jar",
+                     "sha1":  "3bd32b0821b544ef0add6c7b3ce291dbd3ac2adb"
                  }
              ]
 }
