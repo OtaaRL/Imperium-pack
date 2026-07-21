@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.184",
+    "modpackVersion":  "1.0.185",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -938,12 +938,6 @@
                      "fileName":  "entityculling-neoforge-1.10.2-mc1.21.1.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/entityculling-neoforge-1.10.2-mc1.21.1.jar",
                      "sha1":  "6c6f885e0359c2b0601cbec76fda406caeb49cca"
-                 },
-                 {
-                     "name":  "entity_model_features-3.2.4-1.21-neoforge",
-                     "fileName":  "entity_model_features-3.2.4-1.21-neoforge.jar",
-                     "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/entity_model_features-3.2.4-1.21-neoforge.jar",
-                     "sha1":  "fcc0d7cfee5ace4dba159225edd151d90dd924b9"
                  },
                  {
                      "name":  "entity_texture_features_1.21-neoforge-7.1",
