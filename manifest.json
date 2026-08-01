@@ -1,5 +1,5 @@
 {
-    "modpackVersion":  "1.0.252",
+    "modpackVersion":  "1.0.253",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.230",
     "mods":  [
@@ -3001,7 +3001,7 @@
                      "name":  "imperiumshop-1.0.0",
                      "fileName":  "imperiumshop-1.0.0.jar",
                      "url":  "https://github.com/OtaaRL/Imperium-pack/releases/download/v1.0.0/imperiumshop-1.0.0.jar",
-                     "sha1":  "ff2b2288404e7ece08b06f24b55c73ee492fbcfe"
+                     "sha1":  "3a8f0300087831396232395a78cbd82c84a27093"
                  },
                  {
                      "name":  "imperiumhautfait-1.0.0",
